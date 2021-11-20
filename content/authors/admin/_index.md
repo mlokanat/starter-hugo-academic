@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Bahadur Research Group (UT Austin)
-    url: https://www.stanford.edu/
+    url: http://bahadurlab.me.utexas.edu/home.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
