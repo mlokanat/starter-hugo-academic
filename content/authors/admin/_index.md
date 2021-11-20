@@ -1,6 +1,6 @@
 ---
 role: PhD Candidate in Thermal Fluids Sciences
-avatar_filename: ""
+avatar_filename: 1517256553656.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -38,7 +38,7 @@ education:
 superuser: true
 highlight_name: true
 susperuser: true
-title: Manojkumar Lokanathan
+title: Manoj Lokanathan
 email: ""
 ---
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
