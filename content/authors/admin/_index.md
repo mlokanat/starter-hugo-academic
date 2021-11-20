@@ -30,10 +30,10 @@ education:
       institution: University of Texas at Austin
       year: 2022
     - course: MSc in Mechanical Engineering
-      institution: University of Texas at Austin
+      institution: Purdue University
       year: 2016
     - course: BSc in Mechanical Engineering
-      institution: University of Texas at Austin
+      institution: Purdue University
       year: 2013
 superuser: true
 highlight_name: true
