@@ -1,4 +1,5 @@
 ---
+title: Manoj Lokanathan
 role: PhD Candidate in Thermal Fluids Sciences
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
