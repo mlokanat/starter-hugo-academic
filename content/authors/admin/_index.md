@@ -1,15 +1,20 @@
 ---
 role: PhD Candidate in Thermal Fluids Sciences
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Thermal management
+  - Electronics cooling
+  - Microfluidics
+  - Surfacesciences
+  - Machinelearning
 social:
   - icon: envelope
     icon_pack: fas
     link: manoj.l@utexas.edu
+    display:
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=P7D-hkEAAAAJ&hl=en
