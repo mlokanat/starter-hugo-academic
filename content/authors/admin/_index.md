@@ -1,6 +1,6 @@
 ---
 role: PhD Candidate in Thermal Fluids Sciences
-avatar_filename: uploads/profile.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
