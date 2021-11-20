@@ -21,15 +21,15 @@ organizations:
     url: http://bahadurlab.me.utexas.edu/home.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mechanical Engineering
+      institution: University of Texas at Austin
+      year: 2022
+    - course: MSc in Mechanical Engineering
+      institution: University of Texas at Austin
+      year: 2016
+    - course: BSc in Mechanical Engineering
+      institution: University of Texas at Austin
+      year: 2013
 superuser: true
 highlight_name: true
 title: Manojkumar Lokanathan
