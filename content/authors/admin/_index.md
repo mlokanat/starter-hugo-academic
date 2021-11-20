@@ -1,5 +1,5 @@
 ---
-role: PhD Candidate of Thermal Fluids Sciences
+role: PhD Candidate in Thermal Fluids Sciences
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
+  - name: Bahadur Research Group (UT Austin)
     url: https://www.stanford.edu/
 education:
   courses:
