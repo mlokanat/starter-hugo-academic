@@ -7,8 +7,8 @@ interests:
   - Thermal management
   - Electronics cooling
   - Microfluidics
-  - Surfacesciences
-  - Machinelearning
+  - Surface sciences
+  - Machine learning
 social:
   - icon: envelope
     icon_pack: fas
