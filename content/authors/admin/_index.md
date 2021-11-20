@@ -1,43 +1,4 @@
 ---
-<<<<<<< HEAD
-role: PhD Candidate in Thermal Fluids Sciences
-avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Thermal management
-  - Electronics cooling
-  - Microfluidics
-  - Surface sciences
-  - Machine learning
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: <a href="mailto:manoj.l@utexas.edu">Email</a>
-    display:
-      header: false
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=P7D-hkEAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/manoj-lokanathan/
-organizations:
-  - name: Bahadur Research Group (UT Austin)
-    url: http://bahadurlab.me.utexas.edu/home.html
-education:
-  courses:
-    - course: PhD in Mechanical Engineering
-      institution: University of Texas at Austin
-      year: 2022
-    - course: MSc in Mechanical Engineering
-      institution: Purdue University
-      year: 2016
-    - course: BSc in Mechanical Engineering
-      institution: Purdue University
-      year: 2013
-superuser: true
-=======
 # Display name
 title: Nelson Bighetti
 
@@ -106,7 +67,6 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
->>>>>>> parent of c23ae21 (Update Author “admin/_index”)
 highlight_name: true
 ---
 
