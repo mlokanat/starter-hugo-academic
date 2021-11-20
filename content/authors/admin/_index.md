@@ -1,60 +1,40 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
+role: PhD Candidate in Thermal Fluids Sciences
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Thermal management
+  - Electronics cooling
+  - Microfluidics
+  - Surface sciences
+  - Machine learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: <a href="mailto:manoj.l@utexas.edu">Email</a>
+    display:
+      header: false
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=P7D-hkEAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/manoj-lokanathan/
+organizations:
+  - name: Bahadur Research Group (UT Austin)
+    url: http://bahadurlab.me.utexas.edu/home.html
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  - course: PhD in Mechanical Engineering
+    institution: University of Texas at Austin
+    year: 2022
+  - course: MSc in Mechanical Engineering
+    institution: Purdue University
+    year: 2016
+  - course: BSc in Mechanical Engineering
+    institution: Purdue University
+    year: 2013
+susperuser: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,7 +46,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
