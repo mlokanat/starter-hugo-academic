@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: manoj.l@utexas.edu
+    link: <a href="mailto:manoj.l@utexas.edu">Email</a>
     display:
       header: false
   - icon: graduation-cap
