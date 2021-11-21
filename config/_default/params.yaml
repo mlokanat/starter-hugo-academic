@@ -20,10 +20,10 @@ font_size: L
 
 # Contact (edit or remove options as required)
 
-email: manoj.l@utexas.edu
+#email: manoj.l@utexas.edu
 #phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
+  street: 204 E Dean Keeton St
   city: Austin
   region: TX
   postcode: '78751'
