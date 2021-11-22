@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
     
-  - title: Graduate Research Assistant
-    company: University of Texas at Austin
+  - title: Research & Development Intern
+    company: Pattern Bioscience
     company_url: ''
     company_logo: org-gc
     location: Texas
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2020-10-28'
+    date_end: '2021-03-31'
     description: |2-
         Responsibilities include:
         
