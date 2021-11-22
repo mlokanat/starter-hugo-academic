@@ -11,9 +11,16 @@ experience:
     date_end: ""
     description: |-2     
         * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
-        * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
         * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
-        * 
+        * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
+        * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
+        * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device
+        
+        * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
+        * Carried out ANSYS thermal simulations of power electronic module through UT Austin’s supercomputer (TACC)
+        * Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants
+        * Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
+    
   - title: Research & Development Intern
     company: Pattern Bioscience
     company_url: ""
