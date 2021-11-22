@@ -1,9 +1,11 @@
 ---
 title: " Machine Learning-Based Predictions of Benefits of High Thermal
   Conductivity Encapsulation Materials for Power Electronics Packaging "
-subtitle: Admin
+subtitle: ""
 publication_types:
   - "2"
+authors:
+  - Admin
 draft: false
 featured: false
 image:
