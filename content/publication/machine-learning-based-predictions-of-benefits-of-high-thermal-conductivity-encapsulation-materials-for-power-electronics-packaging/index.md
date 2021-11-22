@@ -1,8 +1,7 @@
 ---
 title: " Machine Learning-Based Predictions of Benefits of High Thermal
   Conductivity Encapsulation Materials for Power Electronics Packaging "
-subtitle: Admin, Palash Acharya, Abdelhamid Ouroua, Robert Hebner, Shannon
-  Strank, Vaibhav Bahadur
+subtitle: "Admin, "
 publication_types:
   - "2"
 draft: false
