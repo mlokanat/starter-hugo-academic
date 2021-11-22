@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Flow regime, void fraction and interfacial area transport and characteristics of co-current downward two-phase flow"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -58,7 +58,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
