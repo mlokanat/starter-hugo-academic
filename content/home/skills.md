@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featurette
 headless: true
 weight: 40
 title: Skills
