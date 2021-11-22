@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: cover image
 headless: true
-weight: 10
+weight: 15
 title: 
 subtitle: ""
 active: true
@@ -14,7 +14,7 @@ design:
   background:
     image: image.JPG
     image_darken: 1
-    image_size: contain
+    image_size: actual
     text_color_light: true
   spacing:
     padding:
