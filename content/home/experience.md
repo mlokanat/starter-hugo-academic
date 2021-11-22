@@ -44,7 +44,17 @@ experience:
       * Model is crucial to predict loss of coolant accident (LOCA) scenarios in high pressure nuclear power plants
       * Achieved 20% higher accuracy with new model as compared to literature    
 
-
+  - title: Graduate Research Assistant
+    company: Purdue University
+    company_url: ""
+    company_logo: test
+    location: Indiana
+    date_start: 2012-01-01
+    date_end: 2013-05-01
+    description: |-2
+      * Analytically modelled flow transition criteria for vertical downward two-phase flow
+      * Model is crucial to predict loss of coolant accident (LOCA) scenarios in high pressure nuclear power plants
+      * Achieved 20% higher accuracy with new model as compared to literature 
 
 
 widget_id: moving
