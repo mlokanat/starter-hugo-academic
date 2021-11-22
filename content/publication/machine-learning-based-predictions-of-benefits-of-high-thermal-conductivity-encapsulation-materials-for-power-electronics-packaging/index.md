@@ -5,8 +5,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Admin
   - Palash Acharya
+  - Admin
   - Abdelhamid Ouroua
   - Robert Hebner
   - Shannon Strank
