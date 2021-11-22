@@ -14,10 +14,7 @@ publication_types:
 authors:
   - admin
   - Palash Acharya
-  - Abdelhamid Ouroua
-  - Robert Hebner
-  - Shannon Strank
-  - Vaibhav Bahadur
+  - ""
 summary: ""
 url_dataset: ""
 url_project: ""
