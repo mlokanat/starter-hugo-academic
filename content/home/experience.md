@@ -39,7 +39,7 @@ experience:
     location: Indiana
     date_start: 2015-01-01
     date_end: 2016-05-01
-    description: 
+    description: |-2
       * Analytically modelled flow transition criteria for vertical downward two-phase flow
       * Model is crucial to predict loss of coolant accident (LOCA) scenarios in high pressure nuclear power plants
       * Achieved 20% higher accuracy with new model as compared to literature    
@@ -51,7 +51,7 @@ experience:
     location: Indiana
     date_start: 2014-03-01
     date_end: 2014-11-31
-    description: 
+    description: |-2
       * Carried out calibration of electrical and automation hardware for a mining plant start-up
       * Performed safety checks and mechanical cold commissioning of mining plant 
 
