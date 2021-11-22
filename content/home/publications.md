@@ -2,7 +2,7 @@
 widget: pages
 widget_id: nAME CHANGE
 weight: 90
-title: Journal Publications
+title: Publications
 subtitle: ""
 content:
   page_type: publication
