@@ -14,7 +14,7 @@ design:
   background:
     image: image2.png
     image_darken: 1
-    image_size: actual
+    image_size: contain
     text_color_light: true
   spacing:
     padding:
