@@ -6,6 +6,14 @@ publication_types:
   - "2"
 authors:
   - Admin
+  - Palash Acharya
+  - Abdelhamid Ouroua
+  - Robert Hebner
+  - Shannon Strank
+  - Vaibhav Bahadur
+doi: https://doi.org/10.1115/1.4052814
+publication: "*Journal of Electronic Packaging*"
+publication_short: "*Journal of Electronic Packaging*"
 draft: false
 featured: false
 image:
