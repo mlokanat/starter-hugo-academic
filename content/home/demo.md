@@ -16,7 +16,8 @@ design:
     image_darken: 1
     image_size: cover
     text_color_light: true
-    image_position = "center"  # Options include `left`, `center` (default), or `right`.
+    image_position = "center"  
+  # Options include `left`, `center` (default), or `right`.
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   # Customize the section spacing. Order is top, right, bottom, left.
   spacing: 
