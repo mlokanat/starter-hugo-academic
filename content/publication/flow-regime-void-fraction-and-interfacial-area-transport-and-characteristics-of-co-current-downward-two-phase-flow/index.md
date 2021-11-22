@@ -7,6 +7,7 @@ authors:
   - Lokanathan
   - M. & Hibiki
   - T
+doi: https://doi.org/10.1016/j.nucengdes.2016.05.042
 publication: Nuclear Engineering and Design
 draft: false
 featured: false
