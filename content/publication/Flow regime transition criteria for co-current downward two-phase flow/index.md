@@ -7,7 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -27,17 +27,17 @@ url_source: ""
 url_video: ""
 publication: "*Progress in Nuclear Energy*"
 featured: false
-date: 2018-03-01T00:00:00Z
+date: 2018-03-01T00:00:00.000Z
 url_slides: ""
 title: Flow regime transition criteria for co-current downward two-phase flow
 tags: []
 projects:
   - []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2018-03-01T00:00:00Z
+publishDate: 2018-03-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.pnucene.2017.11.021
