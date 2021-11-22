@@ -20,10 +20,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: In *Nuclear Engineering and Design*
+publication_short: *Nuclear Engineering and Design*
 url_source: ""
 url_video: ""
-publication: In *Nuclear Engineering and Design*
+publication: *Nuclear Engineering and Design*
 featured: false
 date: 2016-10-01T00:00:00Z
 url_slides: ""
