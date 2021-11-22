@@ -13,7 +13,10 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Enakshi Wikramanayake
+  - Palash Acharya
+  - Abdelhamid Ouroua
+  - Robert Hebner
+  - Shannon Strank  
   - Vaibhav Bahadur
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -21,24 +24,24 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: "*Materials Research Express*"
+publication_short: "*Proceedings of the IEEE*"
 url_source: ""
 url_video: ""
-publication: "*Materials Research Express*"
+publication: "*Proceedings of the IEEE*"
 featured: false
-date: 2019-01-01T00:00:00.000Z
+date: 2021-08-01T00:00:00.000Z
 url_slides: ""
-title: Scalably manufactured textured surfaces for controlling wettability in oil-water systems
+title: Review of nanocomposite dielectric materials with high thermal conductivity
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2019-01-01T00:00:00.000Z
+publishDate: 2021-08-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1088/2053-1591/aaf919
+doi: https://doi.org/10.1109/JPROC.2021.3085836
 ---
 
 {{% callout note %}}
