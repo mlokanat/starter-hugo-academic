@@ -29,8 +29,7 @@ publication: "*J. Electron. Packag.*"
 featured: false
 date: 2022-08-01T00:00:00.000Z
 url_slides: ""
-title: Machine learning-based predictions of benefits of high thermal
-  conductivity encapsulation materials for power electronics packaging
+title: "Machine learning-based predictions of benefits of high "
 tags: []
 projects: []
 image:
