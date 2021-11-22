@@ -6,11 +6,11 @@ widget: blank
 widget_id: cover image
 headless: true
 weight: 15
-title: Test
+title: 
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: image2.png
     image_darken: 1
