@@ -14,12 +14,12 @@ design:
   background:
     image: image2.png
     image_darken: 1
-    image_size: cover
+    image_size: actual
     text_color_light: true
   spacing:
     padding:
       - 200px
-      - -100
+      - 0px
       - 1000px
       - 0px
 ---
