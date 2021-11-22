@@ -4,7 +4,7 @@ advanced:
   css_class: ""
 widget: blank
 widget_id: cover image
-headless: false
+headless: true
 weight: 15
 title: 
 subtitle: ""
