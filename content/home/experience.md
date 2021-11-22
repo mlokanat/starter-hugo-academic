@@ -10,16 +10,16 @@ experience:
     date_start: 2017-01-01
     date_end: ""
     description: |   
-    * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
-    * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
-    * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
-    * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
-    * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device
-    
-    * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics module
-    * Carried out ANSYS thermal simulations of power electronic module through UT Austin’s supercomputer (TACC)
-    * Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants
-    * Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
+      * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
+      * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
+        * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
+        * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
+        * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device
+        
+        * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
+        * Carried out ANSYS thermal simulations of power electronic module through UT Austin’s supercomputer (TACC)
+        * Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants
+        * Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
     
   - title: Research & Development Intern
     company: Pattern Bioscience
