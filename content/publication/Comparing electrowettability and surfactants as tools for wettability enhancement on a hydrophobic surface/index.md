@@ -40,7 +40,7 @@ image:
 publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1088/2053-1591/aaf919
+doi: https://doi.org/10.1016/j.colsurfa.2019.124155
 ---
 
 {{% callout note %}}
