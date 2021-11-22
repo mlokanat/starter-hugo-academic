@@ -22,7 +22,7 @@ design:
   # Customize the section spacing. Order is top, right, bottom, left.
   spacing: 
     padding:
-      - 80px
+      - 0px
       - "0"
       - 140px
       - "0"
