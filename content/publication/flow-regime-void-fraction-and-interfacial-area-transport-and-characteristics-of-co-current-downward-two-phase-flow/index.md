@@ -13,25 +13,21 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Palash Acharya
-  - Abdelhamid Ouroua
-  - Shannon Strank
-  - Robert Hebner
-  - Vaibhav Bahadur
+  - Takashi Hibiki
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: "*Proceedings of the IEEE*"
+publication_short: "*Nuclear Engineering and Design*"
 url_source: ""
 url_video: ""
-publication: "*Proceedings of the IEEE*"
+publication: "*Nuclear Engineering and Design*"
 featured: false
 date: 2021-06-01T00:00:00.000Z
 url_slides: ""
-title: Review of Nanocomposite Dielectric Materials With High Thermal Conductivity
+title: Flow regime, void fraction and interfacial area transport and characteristics of co-current downward two-phase flow
 tags: []
 projects: []
 image:
@@ -41,7 +37,7 @@ image:
 publishDate: 2021-06-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1109/JPROC.2021.3085836
+doi: https://doi.org/10.1016/j.nucengdes.2016.05.042
 ---
 
 {{% callout note %}}
