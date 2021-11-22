@@ -10,16 +10,16 @@ title: Test
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: image2.png
+    image: image2.jpg
     image_darken: 1
     image_size: cover
     text_color_light: true
   spacing:
     padding:
-      - 0px
+      - 80px
       - "0"
-      - 100px
+      - 140px
       - "0"
 ---
