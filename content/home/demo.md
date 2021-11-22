@@ -16,10 +16,11 @@ design:
     image_darken: 0.4
     image_size: cover
     text_color_light: true
-  spacing:
+  # Customize the section spacing. Order is top, right, bottom, left.
+  spacing: 
     padding:
       - 20px
       - "0"
-      - 20px
+      - 40px
       - "0"
 ---
