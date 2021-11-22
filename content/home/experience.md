@@ -9,7 +9,8 @@ experience:
     location: Texas
     date_start: 2017-01-01
     date_end: ""
-    description: * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
+    description: 
+      *Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
       * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
       * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
       * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
