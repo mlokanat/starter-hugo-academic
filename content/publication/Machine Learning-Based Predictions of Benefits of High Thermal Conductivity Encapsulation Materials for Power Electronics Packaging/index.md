@@ -12,8 +12,8 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
+  - admin
   - Palash Acharya
-  - Manojkumar Lokanathan
   - Abdelhamid Ouroua
   - Robert Hebner
   - Shannon Strank  
@@ -24,12 +24,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: "*Journal of Electronic Packaging*"
+publication_short: "*J. Electron. Packag.*"
 url_source: ""
 url_video: ""
-publication: "*Journal of Electronic Packaging*"
+publication: "*J. Electron. Packag.*"
 featured: false
-date: 2021-12-01T00:00:00.000Z
+date: 2022-08-01T00:00:00.000Z
 url_slides: ""
 title:  Machine Learning-Based Predictions of Benefits of High Thermal Conductivity Encapsulation Materials for Power Electronics Packaging 
 tags: []
@@ -38,7 +38,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2021-12-01T00:00:00.000Z
+publishDate: 2022-08-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1115/1.4052814
