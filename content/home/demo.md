@@ -10,7 +10,7 @@ title: Test
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: image2.png
     image_darken: 1
@@ -19,7 +19,7 @@ design:
   spacing:
     padding:
       - 0px
+      - "0"
       - 100px
-      - 100px
-      - 100px
+      - "0"
 ---
