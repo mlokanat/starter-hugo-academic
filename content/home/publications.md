@@ -18,6 +18,7 @@ content:
 headless: true
 design:
   view: 4
+  columns: "2"
 ---
 
 {{% callout note %}}
