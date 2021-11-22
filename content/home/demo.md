@@ -4,11 +4,11 @@ advanced:
   css_class: ""
 widget: blank
 widget_id: cover image
-headless: true
+headless: false
 weight: 15
 title: 
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:
@@ -18,8 +18,8 @@ design:
     text_color_light: true
   spacing:
     padding:
-      - 20px
+      - 500px
       - 0px
-      - 20px
+      - 500px
       - 0px
 ---
