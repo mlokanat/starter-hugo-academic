@@ -36,19 +36,19 @@ experience:
         * Modelling
         * Deploying
     
- - title: Research & Development Intern
-  company: Pattern Bioscience
-  company_url: ''
-  company_logo: org-gc
-  location: Texas
-  date_start: '2020-10-28'
-  date_end: '2021-03-31'
-  description: |2-
-      Responsibilities include:
-      
-      * Analysing
-      * Modelling
-      * Deploying      
+   - title: Research & Development Intern
+    company: Pattern Bioscience
+    company_url: ''
+    company_logo: org-gc
+    location: Texas
+    date_start: '2020-10-28'
+    date_end: '2021-03-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying      
   
   - title: Graduate Research Assistant
     company: Purdue University  
