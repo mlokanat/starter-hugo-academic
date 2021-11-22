@@ -16,11 +16,9 @@ authors:
   - Palash Acharya
   - Abdelhamid Ouroua
   - Robert Hebner
-  - Shannon Strank  
+  - Shannon Strank
   - Vaibhav Bahadur
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -31,7 +29,8 @@ publication: "*J. Electron. Packag.*"
 featured: false
 date: 2022-08-01T00:00:00.000Z
 url_slides: ""
-title:  Machine Learning-Based Predictions of Benefits of High Thermal Conductivity Encapsulation Materials for Power Electronics Packaging 
+title: Machine learning-based predictions of benefits of high thermal
+  conductivity encapsulation materials for power electronics packaging
 tags: []
 projects: []
 image:
@@ -43,14 +42,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1115/1.4052814
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
