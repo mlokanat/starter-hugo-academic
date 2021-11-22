@@ -13,7 +13,7 @@ publication_types:
   - "2"
 authors:
   - Palash Acharya
-  - admin
+  - Manojkumar Lokanathan
   - Abdelhamid Ouroua
   - Robert Hebner
   - Shannon Strank  
