@@ -9,12 +9,11 @@ experience:
     location: Texas
     date_start: 2017-01-01
     date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |-2     
+        * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
+        * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
+        * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
+        * 
   - title: Research & Development Intern
     company: Pattern Bioscience
     company_url: ""
