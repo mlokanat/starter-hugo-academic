@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 publication: "*Nuclear Engineering and Design*"
 featured: false
-date: 2021-06-01T00:00:00.000Z
+date: 2016-10-01T00:00:00.000Z
 url_slides: ""
 title: Flow regime, void fraction and interfacial area transport and characteristics of co-current downward two-phase flow
 tags: []
@@ -34,7 +34,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2021-06-01T00:00:00.000Z
+publishDate: 2016-10-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.nucengdes.2016.05.042
