@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: cover image
 headless: true
-weight: 15
+weight: 10
 title: 
 subtitle: ""
 active: true
