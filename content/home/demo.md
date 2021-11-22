@@ -20,6 +20,6 @@ design:
     padding:
       - 50px
       - 0px
-      - 100px
+      - 300px
       - 0px
 ---
