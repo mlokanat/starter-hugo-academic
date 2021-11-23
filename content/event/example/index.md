@@ -5,7 +5,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An example talk using Wowchemy's Markdown slides feature. {{< video src="dgen.mp4" controls="yes" >}}
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
 event_url: https://example.org
