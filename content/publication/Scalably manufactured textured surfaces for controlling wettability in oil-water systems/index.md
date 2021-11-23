@@ -16,7 +16,7 @@ publication_short: "*Materials Research Express*"
 url_source: ""
 url_video: ""
 publication: "*Materials Research Express*"
-featured: false
+featured: true
 date: 2019-01-01T00:00:00.000Z
 url_slides: ""
 title: Scalably manufactured textured surfaces for controlling wettability in

@@ -15,7 +15,7 @@ doi: https://doi.org/10.1115/1.4052814
 publication: "*Journal of Electronic Packaging*"
 publication_short: "*Journal of Electronic Packaging*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
