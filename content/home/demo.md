@@ -18,7 +18,7 @@ design:
     text_color_light: dark
   spacing:
     padding:
-      - 350px
+      - 300px
       - 0px
       - 350px
       - 0px
