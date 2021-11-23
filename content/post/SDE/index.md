@@ -36,7 +36,11 @@ categories:
 
 ## Description
 
-Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration (side view).
+Satellite droplet ejection (side view) during electrowetting of a 2.5 uL water droplet on a device with:
+   * Electrode spacing: 100 um electrode spacing
+   * Voltage: 100 V 
+   * Frequency: 1 kHz
+   * Surfactant (Span 80) concentration: 1 wt.%
 
 
 
