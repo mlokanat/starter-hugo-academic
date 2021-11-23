@@ -29,7 +29,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: False
-  filename: capture.jpg
+
 publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""

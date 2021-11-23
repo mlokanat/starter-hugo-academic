@@ -1,11 +1,11 @@
 ---
-widget: pages
+widget: featured
 widget_id: nAME CHANGE
 weight: 90
 title: Publications
 subtitle: ""
 content:
-  page_type: talks
+  page_type: publication
   count: 6
   offset: 0
   order: desc
@@ -17,7 +17,7 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 3
+  view: 2
   columns: "2"
 ---
 
