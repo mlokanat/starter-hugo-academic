@@ -5,7 +5,7 @@ weight: 90
 title: Publications
 subtitle: ""
 content:
-  page_type: post
+  page_type: publication
   count: 6
   offset: 0
   order: desc
