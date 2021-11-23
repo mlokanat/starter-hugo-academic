@@ -32,7 +32,7 @@ content:
   - name: Other
     tag: Demo
 
-  featured: true
+ 
 
 
 design:
