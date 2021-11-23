@@ -6,8 +6,8 @@ widget: blank
 widget_id: cover image
 headless: true
 weight: 15
-title: 
-subtitle: "Microfluidics | Thermal Management | Machine Learning"
+title: Microfluidics | Thermal Management | Machine Learning
+subtitle: ""
 active: true
 design:
   columns: "1"
