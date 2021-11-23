@@ -12,7 +12,7 @@ publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects
 publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering
   Aspects (Under review)*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

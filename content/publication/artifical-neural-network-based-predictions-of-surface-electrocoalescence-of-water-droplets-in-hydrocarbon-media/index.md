@@ -11,7 +11,7 @@ authors:
 publication: "*Chemical Engineering Journal (Under review)*"
 publication_short: "*Chemical Engineering Journal (Under review)*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

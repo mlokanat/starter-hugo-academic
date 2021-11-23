@@ -12,7 +12,7 @@ doi: https://doi.org/10.1115/IMECE2018-86487
 publication: "*ASME 2018 International Mechanical Engineering Congress and Exposition*"
 publication_short: "*ASME 2018 International Mechanical Engineering Congress and Exposition*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
