@@ -17,7 +17,7 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 2
+  view: 4
   columns: "2"
 ---
 
