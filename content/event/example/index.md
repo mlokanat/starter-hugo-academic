@@ -1,6 +1,6 @@
 ---
 title: Example Talk
-![](Dgen.mp4)
+![](Dgen.MP4)
 
 event: Wowchemy Conference
 event_url: https://example.org
