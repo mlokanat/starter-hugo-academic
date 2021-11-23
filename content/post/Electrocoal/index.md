@@ -1,6 +1,6 @@
 ---
-title: Droplet generation 
-subtitle: Satellite droplet ejection at triple-phase line.
+title: Electrocoalescence
+subtitle: Electric-field assisted droplet coalescence.
 
 # Summary for listings and search engines
 summary: Satellite droplet ejection at triple-phase line.
@@ -36,7 +36,9 @@ categories:
 
 ## Description
 
-Satellite droplet ejection (side view) during electrowetting of a 2.5 uL water droplet in hexadecane on a device with:
+Satellite droplet ejection (side view) during electrowetting of a 2.5 uL water droplet on a microfluidic device with planar electrodes.
+
+Experimental conditions:
    * Electrode spacing: 100 um 
    * Voltage: 100 V 
    * Frequency: 1 kHz
