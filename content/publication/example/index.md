@@ -35,7 +35,7 @@ projects:
   - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
+  focal_point: Smart
   preview_only: true
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00Z
