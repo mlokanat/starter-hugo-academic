@@ -1,8 +1,6 @@
 ---
 
 url_pdf: ""
-Description: Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
-
 summary: Satellite droplet ejection at triple-phase line
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
@@ -35,3 +33,7 @@ image:
 url_code: ""
 all_day: false
 ---
+Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
+
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
