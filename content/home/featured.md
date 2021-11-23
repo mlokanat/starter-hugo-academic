@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -14,7 +14,7 @@ subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: project
+  page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
