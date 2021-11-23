@@ -6,9 +6,7 @@ widget: blank
 widget_id: cover image
 headless: true
 weight: 15
-title: Microfluidics 
-       Thermal Sciences 
-       Machine Learning
+title: Microfluidics\Thermal Sciences\Machine Learning
 subtitle: 
 active: true
 design:
@@ -18,7 +16,7 @@ design:
     image_darken: 1
     image_size: cover
     text_color_light: dark
-  font_size = "16"
+
   spacing:
     padding:
       - 300px
