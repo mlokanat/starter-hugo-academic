@@ -9,6 +9,9 @@ cms_exclude: true
 #   4 = Citation
 view: 2
 
+headless: false
+draft: false
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
