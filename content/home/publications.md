@@ -17,8 +17,8 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 2
-  columns: "3"
+  view: 3
+  columns: "2"
 ---
 
 {{% callout note %}}
