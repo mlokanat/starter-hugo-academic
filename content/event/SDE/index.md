@@ -9,7 +9,7 @@ featured: true
 authors: []
 url_slides: ""
 
-title: Droplet generation with planar electrodes
+title: Droplet generation 
 
 #publishDate: 2017-01-01T00:00:00Z
 tags: []
@@ -23,6 +23,8 @@ image:
 url_code: ""
 all_day: false
 ---
+**Description**
+
 Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
 
 #- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
