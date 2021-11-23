@@ -44,7 +44,8 @@ Experimental conditions:
    * Frequency: 1 Hz
    * Surfactant (Span 80) concentration: 0 wt.%
 
-
+Experimental setup:
+![screen reader text](setup.JPG "caption")
 
 
 
