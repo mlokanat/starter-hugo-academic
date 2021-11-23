@@ -1,9 +1,9 @@
 ---
 title: Severe satellite droplet ejection
-subtitle: Droplet generation in an emulsion with high Span 80 concentration
+subtitle: Droplet generation in an emulsion with high Span 80 concentration.
 
 # Summary for listings and search engines
-summary: Electric-field assisted droplet coalescence.
+summary: Droplet generation in an emulsion with high Span 80 concentration.
 
 # Link this post with a project
 projects: []
