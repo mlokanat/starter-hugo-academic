@@ -11,7 +11,7 @@ url_slides: ""
 
 title: Droplet generation 
 
-#publishDate: 2021
+publishDate: 2021
 tags: []
 
 image:
