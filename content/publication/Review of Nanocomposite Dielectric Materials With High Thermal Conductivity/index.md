@@ -19,7 +19,7 @@ publication_short: "*Proceedings of the IEEE*"
 url_source: ""
 url_video: ""
 publication: "*Proceedings of the IEEE*"
-featured: false
+featured: true
 date: 2021-08-01T00:00:00.000Z
 url_slides: ""
 title: Review of nanocomposite dielectric materials with high thermal conductivity
