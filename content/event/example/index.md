@@ -18,7 +18,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-title: Example Talk
+title: XXX
 location: Wowchemy HQ
 links:
   - icon: twitter
