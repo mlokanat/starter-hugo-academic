@@ -4,7 +4,7 @@ widget_id: nAME CHANGE
 active: true
 weight: 90
 title: Publications
-subtitle: ""
+subtitle: "See [Full Publication List](papers/)"
 content:
   page_type: publication
   count: 6
