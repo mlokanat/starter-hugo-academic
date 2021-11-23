@@ -12,14 +12,14 @@ active: true
 design:
   columns: "1"
   background:
-    image: test3.jpg
+    image: test2.jpg
     image_darken: 1
     image_size: cover
     text_color_light: true
   spacing:
     padding:
-      - 375px
+      - 365px
       - 0px
-      - 375px
+      - 365px
       - 0px
 ---
