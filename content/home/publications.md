@@ -18,6 +18,6 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 5
+  view: 3
   columns: "2"
 ---
