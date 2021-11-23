@@ -18,7 +18,7 @@ publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering As
 url_source: ""
 url_video: ""
 publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects*"
-featured: False
+featured: True
 date: 2020-01-01T00:00:00.000Z
 url_slides: ""
 title: Comparing electrowettability and surfactants as tools for wettability
