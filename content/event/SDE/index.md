@@ -9,8 +9,15 @@ featured: true
 authors: []
 url_slides: ""
 
-title: Droplet generation with surface electrodes
-
+title: Droplet generation with planar electrodes
+Location: Wowchemy HQ
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#event: Wowchemy Conference
+publishDate: 2017-01-01T00:00:00Z
 tags: []
 
 image:
