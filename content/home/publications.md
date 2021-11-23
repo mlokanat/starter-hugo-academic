@@ -7,7 +7,7 @@ title: Publications
 subtitle: "See [Full Publication List](./publication/)"
 content:
   page_type: publication
-  count: 6
+  count: 5
   offset: 0
   order: desc
   filters:
