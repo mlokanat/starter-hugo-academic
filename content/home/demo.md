@@ -10,12 +10,12 @@ title: Microfluidics <br>Thermal Sciences <br> Machine Learning
 subtitle: 
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: test2.jpg
     image_darken: 1
     image_size: cover
-    text_color_light: dark
+    text_color_light: light
 
   spacing:
     padding:
