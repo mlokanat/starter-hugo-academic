@@ -1,6 +1,5 @@
 ---
 title: Example Talk
-![](Dgen.MP4)
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -34,7 +33,6 @@ featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-  #filename: capture.jpg
   url_video: ""
 
 
