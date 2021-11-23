@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: pages
 widget_id: nAME CHANGE
 active: true
 weight: 90
