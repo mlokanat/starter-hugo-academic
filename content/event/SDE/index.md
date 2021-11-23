@@ -2,12 +2,16 @@
 
 url_pdf: ""
 summary: Satellite droplet ejection at triple-phase line
-
+date: "2030-06-01T13:00:00Z"
+#date_end: 2030-06-01T15:00:00Z
+event_url: https://example.org
 featured: false
 authors: []
 url_slides: ""
 
 title: Droplet generation 
+
+publishDate: 2021
 tags: []
 
 image:
