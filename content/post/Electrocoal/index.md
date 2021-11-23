@@ -36,19 +36,16 @@ categories:
 
 ## Description
 
-Satellite droplet ejection (side view) during electrowetting of a 2.5 uL water droplet on a microfluidic device with planar electrodes.
+Electrocoalescence of an emulsion of water droplets in hexadecane media. Electric field is applied with patterned planar electrodes.
 
 Experimental conditions:
-   * Electrode spacing: 100 um 
-   * Voltage: 100 V 
-   * Frequency: 1 kHz
-   * Surfactant (Span 80) concentration: 1 wt.%
+   * Electrode spacing: 100 &mu;m 
+   * Voltage: 400 V 
+   * Frequency: 1 Hz
+   * Surfactant (Span 80) concentration: 0 wt.%
 
-\mu
 
-&mu
 
-&mu;
 
 
 
