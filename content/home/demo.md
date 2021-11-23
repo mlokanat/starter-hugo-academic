@@ -6,13 +6,13 @@ widget: blank
 widget_id: cover image
 headless: true
 weight: 15
-title: 
+title: Microfluidics | Thermal Management | Machine Learning
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
-    image: test3.jpg
+    image: test2.jpg
     image_darken: 1
     image_size: cover
     text_color_light: true
