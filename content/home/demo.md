@@ -18,8 +18,8 @@ design:
     text_color_light: true
   spacing:
     padding:
-      - 400px
+      - 350px
       - 0px
-      - 400px
+      - 350px
       - 0px
 ---
