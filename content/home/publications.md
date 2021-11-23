@@ -5,7 +5,7 @@ weight: 90
 title: Publications
 subtitle: ""
 content:
-  page_type: event
+  page_type: post
   count: 6
   offset: 0
   order: desc
