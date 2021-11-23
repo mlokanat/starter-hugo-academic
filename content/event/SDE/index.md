@@ -2,7 +2,7 @@
 Description: Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
 slides: example
 url_pdf: ""
-summary: Droplet generation 
+summary: Satellite droplet ejection at triple-phase line
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
 event_url: https://example.org
@@ -15,8 +15,8 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-title: XXX
-location: Wowchemy HQ
+title: Droplet generation
+Publication: Wowchemy HQ
 #links:
 #  - icon: twitter
 #    icon_pack: fab
