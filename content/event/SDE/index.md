@@ -16,7 +16,7 @@ address:
   postcode: "94305"
   country: United States
 title: Droplet generation
-Location: Wowchemy HQ
+Publication: Wowchemy HQ
 #links:
 #  - icon: twitter
 #    icon_pack: fab
