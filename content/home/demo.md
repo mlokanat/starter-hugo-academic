@@ -10,7 +10,7 @@ title: Microfluidics | Thermal Management | Machine Learning
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: test2.jpg
     image_darken: 1
