@@ -3,7 +3,7 @@ title: Electrocoalescence
 subtitle: Electric-field assisted droplet coalescence.
 
 # Summary for listings and search engines
-summary: Satellite droplet ejection at triple-phase line.
+summary: Electric-field assisted droplet coalescence.
 
 # Link this post with a project
 projects: []
