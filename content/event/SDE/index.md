@@ -13,6 +13,7 @@ title: Droplet generation with planar electrodes
 
 #publishDate: 2017-01-01T00:00:00Z
 tags: []
+doi: https://doi.org/10.1115/1.4052814
 
 image:
   #caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
