@@ -29,11 +29,7 @@ image:
   preview_only: false
 
 authors:
-
-
 tags:
-
-
 categories:
 
 ---
