@@ -9,7 +9,7 @@ content:
   page_type: publication
   count: 6
   offset: 0
-  order: desc
+  order: asc
   filters:
     tag: ""
     category: ""
