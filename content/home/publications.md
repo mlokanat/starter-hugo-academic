@@ -1,6 +1,7 @@
 ---
 widget: featured
 widget_id: nAME CHANGE
+active: true
 weight: 90
 title: Publications
 subtitle: ""
