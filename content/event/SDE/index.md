@@ -10,9 +10,8 @@ authors: []
 url_slides: ""
 
 title: Droplet generation with planar electrodes
-#Location: Wowchemy HQ
 
-#publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00Z
 tags: []
 
 image:
