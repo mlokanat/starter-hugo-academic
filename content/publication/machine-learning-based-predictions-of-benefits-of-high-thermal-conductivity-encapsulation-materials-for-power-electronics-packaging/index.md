@@ -29,5 +29,6 @@ date: 2021-11-22T06:16:41.529Z
 {{% callout note %}}
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here,
+including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
