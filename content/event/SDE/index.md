@@ -9,6 +9,8 @@ featured: true
 authors: []
 url_slides: ""
 
+title: Droplet generation with surface electrodes
+
 tags: []
 
 image:
