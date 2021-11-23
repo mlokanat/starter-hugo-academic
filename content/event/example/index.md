@@ -35,7 +35,8 @@ image:
   focal_point: Right
   #filename: capture.jpg
   url_video: ""
-  ![](Dgen.mp4)
+
+![](Dgen.mp4)
 
 links:
 - icon: twitter
