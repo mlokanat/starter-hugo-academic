@@ -1,7 +1,7 @@
 ---
 role: PhD Candidate in Thermal Fluids Sciences
 avatar_filename: uploads/1517256553656.jpg
-bio: My research interests include thermal management, microfluidics, surface sciences and machine learning.
+bio: Manoj is a PhD candidate at the University of Texas at Austin. His research expertise encompasses the fields of two-phase flow, thermal sciences, microfluidics, emulsion chemistry, surface sciences and machine learning.
 interests:
   - Thermal management
   - Electronics cooling
