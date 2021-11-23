@@ -26,7 +26,7 @@ publication_short: In *ICW*
 url_source: ""
 url_video: ""
 publication: In *Wowchemy Conference*
-featured: true
+featured: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 title: An example conference paper
@@ -37,7 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: Smart
   preview_only: true
-  filename: featured.jpg
+ 
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""

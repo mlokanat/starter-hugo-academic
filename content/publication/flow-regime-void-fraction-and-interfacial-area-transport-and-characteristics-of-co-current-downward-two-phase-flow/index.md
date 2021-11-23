@@ -15,7 +15,7 @@ publication_short: "*Nuclear Engineering and Design*"
 url_source: ""
 url_video: ""
 publication: "*Nuclear Engineering and Design*"
-featured: false
+featured: true
 date: 2016-10-01T00:00:00.000Z
 url_slides: ""
 title: Flow regime, void fraction and interfacial area transport and
