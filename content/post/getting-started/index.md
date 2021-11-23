@@ -29,18 +29,15 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 吳恩達
+
 
 tags:
-- Academic
-- 开源
+
 
 categories:
-- Demo
-- 教程
+
 ---
 
 ## Description
 
-Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
+Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration.
