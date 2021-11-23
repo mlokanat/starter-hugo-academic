@@ -34,7 +34,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
   url_video: ""
-  filename: dgen.gif
+  filename: featured.gif
 url_code: ""
 all_day: false
 ---
