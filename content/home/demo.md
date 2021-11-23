@@ -12,7 +12,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: test1.jpg
+    image: test2.jpg
     image_darken: 1
     image_size: cover
     text_color_light: true
