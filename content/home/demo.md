@@ -6,8 +6,8 @@ widget: blank
 widget_id: cover image
 headless: true
 weight: 15
-title: Microfluidics\
-       Thermal Sciences\
+title: Microfluidics  
+       Thermal Sciences  
        Machine Learning
 subtitle: 
 active: true
