@@ -1,11 +1,8 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. 
+Description: Satellite droplet ejection during electrowetting of a 2.5 uL water droplet on a device with 100 um electrode spacing, at 100 V, 1 kHz and 1 wt.% Span 80 concentration
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature. 
+summary: Droplet generation 
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
 event_url: https://example.org
@@ -20,12 +17,12 @@ address:
   country: United States
 title: XXX
 location: Wowchemy HQ
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-event: Wowchemy Conference
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#event: Wowchemy Conference
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
@@ -44,10 +41,6 @@ Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
 Slides can be added in a few ways:
-
-{{< video src="dgen.mp4" controls="yes" >}}
-
-< video src="dgen.mp4" controls="yes" >
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file 
