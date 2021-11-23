@@ -5,7 +5,7 @@ weight: 90
 title: Publications
 subtitle: ""
 content:
-  page_type: post
+  page_type: publication
   count: 6
   offset: 0
   order: desc
@@ -17,7 +17,7 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 2
+  view: 3
   columns: "2"
 ---
 
