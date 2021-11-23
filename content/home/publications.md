@@ -4,7 +4,7 @@ widget_id: nAME CHANGE
 active: true
 weight: 90
 title: Publications
-subtitle: "See [Full Publication List](papers/)"
+subtitle: "See [Full Publication List](./publication/)"
 content:
   page_type: publication
   count: 6
@@ -22,6 +22,6 @@ design:
   columns: "2"
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
