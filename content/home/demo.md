@@ -18,6 +18,7 @@ design:
     image_darken: 1
     image_size: cover
     text_color_light: dark
+  font_size = "16"
   spacing:
     padding:
       - 300px
