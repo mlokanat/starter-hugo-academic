@@ -8,21 +8,7 @@ event_url: https://example.org
 featured: true
 authors: []
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
-title: Droplet generation
-Location: Wowchemy HQ
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-#event: Wowchemy Conference
-publishDate: 2017-01-01T00:00:00Z
+
 tags: []
 
 image:
