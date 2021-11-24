@@ -9,13 +9,13 @@ experience:
     location: Texas
     date_start: 2017-01-01
     date_end: ""
-    description: |-0
+    description: |-2
       **Microfluidics**
       * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
       * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
       * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
       * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
-      * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br><br>
+      * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br>
       
       **Thermal Management**
       * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
