@@ -10,7 +10,7 @@ abstract: Dielectric materials with high thermal conductivity (TC) can enable
   W·m <sup>-1</sup>·K <sup>-1</sup> . Importantly, several fundamental studies report novel
   nanocomposites with thermal conductivities > 50 W·m<sup>-1</sup>·K <sup>-1</sup>. This article
   summarizes progress in the development of such materials with a focus on
-  developments that show promise for improved practical dielectrics. <br>
+  developments that show promise for improved practical dielectrics. <br><br>
 
   This review highlights that high TC alone is inadequate to characterize the suitability of
   any material for the above applications. Other thermal properties, such as
@@ -26,7 +26,7 @@ abstract: Dielectric materials with high thermal conductivity (TC) can enable
   dielectric materials reported in the literature. More specifically, we analyze
   various filler-polymer combinations, and the influence of approaches to
   incorporate fillers in the polymer on the thermal, mechanical, and electrical
-  properties. <br>
+  properties. <br><br>
   
   While the addition of fillers leads to huge enhancements in TC, the TC is highly anisotropic, with out-of-plane TC lower than in-plane TC by an order of magnitude. It is seen that most present-day materials are still inadequate for future applications due to their low glass transition temperatures; specific promising materials are highlighted. While the addition of fillers reduces the CTE, further reduction is needed to favorably improve the mechanical performance of these materials. While the electrical insulating properties of these composite materials are adequate, there is very little data reported on other electrical properties. In summary, while there is an understandable focus on enhancing the TC, other properties are underreported, and there is insufficient information to support the assessment of most novel materials for practical applications. Overall, this study summarizes the state-of-the-art dielectric nanocomposites and outlines directions for future research to bridge the gap between basic materials science and applications.
 
