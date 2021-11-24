@@ -31,8 +31,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes:
-  - Equal contribution
-  - Equal contribution
+
 publication_short: "*Progress in Nuclear Energy*"
 url_source: ""
 url_video: ""
