@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: Service
 headless: true
-weight: 15
+weight: 100
 title: Service
 subtitle: 
 active: true
