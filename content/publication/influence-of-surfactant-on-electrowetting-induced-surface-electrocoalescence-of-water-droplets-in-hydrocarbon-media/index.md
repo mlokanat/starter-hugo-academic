@@ -47,12 +47,3 @@ image:
 date: 2021-11-22T06:32:43.140Z
 publishDate: 2021-11-22T00:00:00.000Z
 ---
-
-{{% callout note %}}
-{{% /callout %}}
-
-{{% callout note %}}
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
