@@ -5,13 +5,14 @@ abstract: Dielectric materials with high thermal conductivity (TC) can enable
   widespread global efforts over the past decade on developing novel
   nanocomposite dielectric materials. As a baseline, legacy polymers and epoxies
   used in the abovementioned applications have very low thermal conductivities
-  ranging from 0.1-0.5 W·m -1 ·K -1 . Recent advances have led to the commercial
+  ranging from 0.1-0.5 W·m <sup>-1</sup> ·K <sup>-1</sup> . Recent advances have led to the commercial
   availability of polymeric materials with thermal conductivities approaching 10
-  W·m -1 ·K -1 . Importantly, several fundamental studies report novel
-  nanocomposites with thermal conductivities > 50 W·m -1 ·K -1 . This article
+  W·m <sup>-1</sup> ·K <sup>-1</sup> . Importantly, several fundamental studies report novel
+  nanocomposites with thermal conductivities > 50 W·m <sup>-1</sup> ·K <sup>-1</sup> . This article
   summarizes progress in the development of such materials with a focus on
-  developments that show promise for improved practical dielectrics. This review
-  highlights that high TC alone is inadequate to characterize the suitability of
+  developments that show promise for improved practical dielectrics. 
+
+  This review highlights that high TC alone is inadequate to characterize the suitability of
   any material for the above applications. Other thermal properties, such as
   thermal diffusivity, glass transition temperature, and the ratio of the
   in-plane to out-of-plane TC, are important to quantify the thermal performance
