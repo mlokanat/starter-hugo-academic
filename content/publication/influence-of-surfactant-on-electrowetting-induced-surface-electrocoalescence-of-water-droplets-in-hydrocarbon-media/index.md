@@ -11,7 +11,7 @@ publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects
   (Under review)*"
 publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering
   Aspects (Under review)*"
-abstract:
+abstract: 
     
   Electrocoalescence is a powerful technique for separating water from
   hydrocarbons. The present study is a detailed experimental investigation of
@@ -40,7 +40,7 @@ abstract:
   of 2-10 &mu;m radii droplets. SDE scales with voltage, frequency and
   concentration, and inversely with electrode spacing. Overall, we identify the
   recommended parameter space for surface electrocoalescence for separations and
-  microfluidic applications. "
+  microfluidic applications. 
 draft: false
 featured: true
 image:
