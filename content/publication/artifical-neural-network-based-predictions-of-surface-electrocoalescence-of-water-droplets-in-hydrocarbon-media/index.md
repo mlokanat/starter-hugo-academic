@@ -20,13 +20,15 @@ abstract: >-
   network (ANN), eXtreme gradient boosting (XGBoost) and polynomial regression.
   These models are then used to predict the influence of parameters such as
   applied voltage, frequency, electrode spacing, concentration and initial
-  droplet density normalized with uncovered area ratio (&delta;<sub>i/&alpha;<sub>i), to predict
-  nine targets: uncovered area ratio (&alpha;<sub>f), final droplet density normalized
-  with uncovered area (&delta;<sub>f/&alpha;<sub>f), and seven droplet density distribution
+  droplet density normalized with uncovered area ratio (&delta;<sub>i</sub>/&alpha;<sub>i</sub>), to predict
+  nine targets: uncovered area ratio (&alpha;<sub>f</sub>), final droplet density normalized
+  with uncovered area (&delta;<sub>f</sub>/&alpha;<sub>f</sub>), and seven droplet density distribution
   (radius) bins. 
 
 
-  ANN was the most accurate predictive tool among the three ML models with R2 of 0.89. ANN accurately predicted the droplet distribution bins for three distinct cases of good electrocoalescence, poor electrocoalescence and satellite droplet ejection (droplet generation). SHAP (Shapley Additive exPlanations) dependence plots were used to quantify the parametric influence of various parameters on each output. For 〖δ_f/α〗_f, frequency and electrode spacing were the most and least influential, respectively. Interestingly, the feature influence on droplet density distributions was observed to reverse (magnitude and direction) with droplet radius. The key novelty of this study is the coupling of data from a multifunctional microfluidic device in an ANN model to accurately predict complex stochastic droplet-related phenomena (coalescence, generation). As such, the framework developed here can be utilized for other data-rich droplet-based microfluidic systems.
+  ANN was the most accurate predictive tool among the three ML models with R2 of 0.89. 
+  ANN accurately predicted the droplet distribution bins for three distinct cases of good electrocoalescence, poor electrocoalescence and satellite droplet ejection (droplet generation). SHAP (Shapley Additive exPlanations) dependence plots were used to quantify the parametric influence of various parameters on each output. 
+  For &delta;<sub>f</sub>/&alpha;<sub>f</sub>, frequency and electrode spacing were the most and least influential, respectively. Interestingly, the feature influence on droplet density distributions was observed to reverse (magnitude and direction) with droplet radius. The key novelty of this study is the coupling of data from a multifunctional microfluidic device in an ANN model to accurately predict complex stochastic droplet-related phenomena (coalescence, generation). As such, the framework developed here can be utilized for other data-rich droplet-based microfluidic systems.
 draft: false
 featured: true
 image:
