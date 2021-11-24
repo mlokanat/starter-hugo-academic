@@ -61,12 +61,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1088/2053-1591/aaf919
 ---
-
-{{% callout note %}}
-{{% /callout %}}
-
-{{% callout note %}}
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
