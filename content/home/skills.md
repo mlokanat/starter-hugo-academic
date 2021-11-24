@@ -5,9 +5,9 @@ weight: 40
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
+  - description: []
+    icon: []
+    icon_pack: []
     name: R
   - description: 100%
     icon: chart-line
