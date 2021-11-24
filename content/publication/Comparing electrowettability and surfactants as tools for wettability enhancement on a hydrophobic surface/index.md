@@ -1,21 +1,19 @@
 ---
-abstract: >
-  Electrowetting (EW) is a widely-studied microfluidic technique to promote
-  coalescence of droplets as well as generate droplets. However, analytical or
-  computational modeling of the intricate phenomena associated with
-  electrocoalescence of water droplets in hydrocarbon media is very challenging.
-  Presently, EW-assisted surface electrocoalescence experiments are used to
-  train machine learning (ML) algorithms. These comprise an artificial neural
-  network (ANN), eXtreme gradient boosting (XGBoost) and polynomial regression.
-  These models are then used to predict the influence of parameters such as
-  applied voltage, frequency, electrode spacing, concentration and initial
-  droplet density normalized with uncovered area ratio (〖δ_i/α〗_i), to predict
-  nine targets: uncovered area ratio (α_f), final droplet density normalized
-  with uncovered area (〖δ_f/α〗_f), and seven droplet density distribution
-  (radius) bins. 
+abstract: >-
+  Surfactants and electrowetting (EW) are widely used for wettability
+  enhancement of water. While numerous studies have examined the use of
+  surfactants and EW individually, there are very few studies on
+  electrowettability of surfactant-infused droplets. Furthermore, comparative
+  analyses of the extent of wettability alteration via the use of surfactants
+  and via EW are very limited. This study fills such gaps, and presents a
+  systematic and detailed comparison of wettability control via EW and
+  surfactants on a smooth hydrophobic surface. Nine surfactants were chosen in
+  three categories: anionic, cationic and zwitterionic. Contact angle (CA)
+  measurements of surfactant-infused water droplets were conducted with and
+  without EW, at pre and post-critical micelle concentration limits (CMC).
 
 
-  ANN was the most accurate predictive tool among the three ML models with R2 of 0.89. ANN accurately predicted the droplet distribution bins for three distinct cases of good electrocoalescence, poor electrocoalescence and satellite droplet ejection (droplet generation). SHAP (Shapley Additive exPlanations) dependence plots were used to quantify the parametric influence of various parameters on each output. For 〖δ_f/α〗_f, frequency and electrode spacing were the most and least influential, respectively. Interestingly, the feature influence on droplet density distributions was observed to reverse (magnitude and direction) with droplet radius. The key novelty of this study is the coupling of data from a multifunctional microfluidic device in an ANN model to accurately predict complex stochastic droplet-related phenomena (coalescence, generation). As such, the framework developed here can be utilized for other data-rich droplet-based microfluidic systems.
+  Many fundamental insights on the interplay between surfactants and electric fields are uncovered. While surfactants enhance wettability till CMC limits, EW can enable additional CA reduction (in surfactant-infused droplets) of as much as 35°. Conversely, surfactants enhance (by as much as 27°) the EW-induced CA reduction of water-surfactant solutions, as compared to EW-induced CA reduction of water alone. Interestingly, the influence of EW in enabling CA reduction is weakened by the addition of surfactants at pre-CMC levels. In contrast, the influence of EW in enabling CA reduction is increased at higher surfactant concentrations. It is noted that the extent of wettability enhancement via EW is limited by contact angle saturation beyond a certain electric field. At post CMC levels, the saturation CAs resulting from EW are independent of surfactant concentration.
 slides: ""
 url_pdf: ""
 publication_types:
