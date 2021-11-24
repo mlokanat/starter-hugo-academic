@@ -21,6 +21,4 @@ design:
   view: 2
   columns: "2"
 
-image:
-  placement: 3
 ---
