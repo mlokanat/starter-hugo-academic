@@ -9,7 +9,7 @@ experience:
     location: Texas
     date_start: 2017-01-01
     date_end: ""
-    description: |-1
+    description: |-4
       **Microfluidics**
       * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
       * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
