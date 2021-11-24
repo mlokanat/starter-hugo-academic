@@ -28,7 +28,7 @@ abstract: >
   parameter space includes the thermal conductivities of the encapsulant,
   baseplate, heat sink, and cooling conditions deployed at the sink and covers a
   variety of materials and cooling scenarios. Excellent prediction accuracies
-  with *R* <sup>2</sup> values > 99.5% are obtained for the algorithms. <br><br>
+  with *R* <sup>2</sup> values > 99.5% are obtained for the algorithms.  
     
   Shapley additive explanations (SHAP) dependence plots are used to quantify the relative impact
   of device and heat sink parameters on junction temperatures. We observe that
