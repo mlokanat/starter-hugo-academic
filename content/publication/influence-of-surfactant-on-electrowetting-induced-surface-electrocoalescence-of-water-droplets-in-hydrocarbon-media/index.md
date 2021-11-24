@@ -26,7 +26,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
     
   Strong coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
   best-case &delta;/&alpha; = 1.6 droplets/mm<sup>2</sup>, with no droplets < 20 &mu;m diameter and
-  electrocoalesced droplets as large as 750 &mu;mm. With surfactant,
+  electrocoalesced droplets as large as 750 &mu;m. With surfactant,
   electrocoalescence weakens; the parameter space for strong electrocoalescence
   progressively reduces with concentration. Nonetheless, electrocoalescence at
   all concentrations results in substantial radius enhancement (after/before
