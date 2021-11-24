@@ -19,22 +19,22 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   surfactant concentration, voltage, frequency and electrode geometry. We
   develop phase maps for various electrocoalescence possibilities and identify
   the parameter space for significant coalescence using dimensionless parameters
-  i) modified electric capillary number (〖Ca〗_e^*), ii) frequency (τ), and iii)
+  i) modified electric capillary number (*Ca*<sub>e</sub><sup>*</sup>), ii) frequency (&tau;), and iii)
   surfactant concentration (C^*). The effectiveness of electrocoalescence is
-  quantified using the parameter (δ/α), where δ is the droplet density per unit
-  area and α is the fraction of surface not covered by droplets. Strong
-  coalescence (no surfactant) corresponds to δ/α < 10 droplets/mm2, with
-  best-case δ/α = 1.6 droplets/mm2, with no droplets < 20 µm diameter and
-  electrocoalesced droplets as large as 750 µm. With surfactant,
+  quantified using the parameter (&delta;/&alpha;), where &delta; is the droplet density per unit
+  area and &alpha; is the fraction of surface not covered by droplets. Strong
+  coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
+  best-case &delta;/&alpha; = 1.6 droplets/mm<sup>2</sup>, with no droplets < 20 &mu;m diameter and
+  electrocoalesced droplets as large as 750 &mu;mm. With surfactant,
   electrocoalescence weakens; the parameter space for strong electrocoalescence
   progressively reduces with concentration. Nonetheless, electrocoalescence at
   all concentrations results in substantial radius enhancement (after/before
   electrocoalescence); measured ratio ranged from 3.1-6.3 in the parameter space
-  of 〖Ca〗_e^*: 3.3-4.9, and τ ≤1.25*10^(-2). Surface electrocoalescence
+  of *Ca*<sub>e</sub><sup>*</sup>: 3.3-4.9, and &tau; ≤1.25*10^(-2). Surface electrocoalescence
   therefore promotes significant aggregation of water droplets over a wide range
   of interfacial energies. This study also characterizes satellite droplet
   ejection (SDE), which adversely affects electrocoalescence due to the ejection
-  of 2-10 µm radii droplets. SDE scales with voltage, frequency and
+  of 2-10 &mu;m radii droplets. SDE scales with voltage, frequency and
   concentration, and inversely with electrode spacing. Overall, we identify the
   recommended parameter space for surface electrocoalescence for separations and
   microfluidic applications. "
