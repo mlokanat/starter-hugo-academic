@@ -11,9 +11,7 @@ publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects
   (Under review)*"
 publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering
   Aspects (Under review)*"
-abstract: 
-    
-  Electrocoalescence is a powerful technique for separating water from
+abstract: "Electrocoalescence is a powerful technique for separating water from
   hydrocarbons. The present study is a detailed experimental investigation of
   the influence of surfactant (Span 80) on electrowetting-induced surface
   electrocoalescence of micron-scale water droplets in hexadecane.
@@ -32,15 +30,15 @@ abstract:
   electrocoalescence weakens; the parameter space for strong electrocoalescence
   progressively reduces with concentration. Nonetheless, electrocoalescence at
   all concentrations results in substantial radius enhancement (after/before
-  electrocoalescence); measured ratio ranged from 3.1-6.3 in the parameter space
-  of *Ca*<sub>e</sub><sup>*</sup>: 3.3-4.9, and &tau; ≤1.25 * 10<sup>-2</sup>. Surface electrocoalescence
+  electrocoalescence); measured ratio ranged from 3.1 - 6.3 in the parameter space
+  of *Ca*<sub>e</sub><sup>*</sup>: 3.3 - 4.9, and &tau; ≤ 1.25 * 10<sup>-2</sup>. Surface electrocoalescence
   therefore promotes significant aggregation of water droplets over a wide range
   of interfacial energies. This study also characterizes satellite droplet
   ejection (SDE), which adversely affects electrocoalescence due to the ejection
   of 2-10 &mu;m radii droplets. SDE scales with voltage, frequency and
   concentration, and inversely with electrode spacing. Overall, we identify the
   recommended parameter space for surface electrocoalescence for separations and
-  microfluidic applications. 
+  microfluidic applications." 
 draft: false
 featured: true
 image:
