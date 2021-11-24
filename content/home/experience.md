@@ -15,7 +15,7 @@ experience:
       * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
       * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
       * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
-      * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device
+      * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br>
       Thermal Management
       * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
       * Carried out ANSYS thermal simulations of power electronic module through UT Austin’s supercomputer (TACC)
