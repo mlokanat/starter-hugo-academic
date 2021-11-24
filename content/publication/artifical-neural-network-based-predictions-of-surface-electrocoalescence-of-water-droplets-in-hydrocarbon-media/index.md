@@ -20,9 +20,9 @@ abstract: >-
   network (ANN), eXtreme gradient boosting (XGBoost) and polynomial regression.
   These models are then used to predict the influence of parameters such as
   applied voltage, frequency, electrode spacing, concentration and initial
-  droplet density normalized with uncovered area ratio (〖δ_i/α〗_i), to predict
-  nine targets: uncovered area ratio (α_f), final droplet density normalized
-  with uncovered area (〖δ_f/α〗_f), and seven droplet density distribution
+  droplet density normalized with uncovered area ratio (&delta;_i/&alpha;_i), to predict
+  nine targets: uncovered area ratio (&alpha;_f), final droplet density normalized
+  with uncovered area (&delta;_f/&alpha;_f), and seven droplet density distribution
   (radius) bins. 
 
 
