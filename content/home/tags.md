@@ -1,5 +1,6 @@
 widget: tag_cloud
 headless: true  # This file represents a page section.
+weight: 35
 
 # ... Put Your Section Options Here (title etc.) ...
 
