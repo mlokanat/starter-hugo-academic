@@ -22,7 +22,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   i) modified electric capillary number (*Ca*<sub>e</sub><sup>* </sup>), ii) frequency (&tau;), and iii)
   surfactant concentration (*C*<sup>* </sup>). The effectiveness of electrocoalescence is
   quantified using the parameter (&delta;/&alpha;), where &delta; is the droplet density per unit
-  area and &alpha; is the fraction of surface not covered by droplets. 
+  area and &alpha; is the fraction of surface not covered by droplets. <br><br>
     
   Strong coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
   best-case &delta;/&alpha; = 1.6 droplets/mm<sup>2</sup>, with no droplets < 20 &mu;m diameter and
