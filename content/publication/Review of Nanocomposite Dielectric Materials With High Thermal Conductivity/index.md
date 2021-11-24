@@ -10,7 +10,7 @@ abstract: Dielectric materials with high thermal conductivity (TC) can enable
   W·m <sup>-1</sup>·K <sup>-1</sup> . Importantly, several fundamental studies report novel
   nanocomposites with thermal conductivities > 50 W·m<sup>-1</sup>·K <sup>-1</sup>. This article
   summarizes progress in the development of such materials with a focus on
-  developments that show promise for improved practical dielectrics. 
+  developments that show promise for improved practical dielectrics. <br>
 
   This review highlights that high TC alone is inadequate to characterize the suitability of
   any material for the above applications. Other thermal properties, such as
