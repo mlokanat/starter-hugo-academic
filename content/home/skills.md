@@ -17,14 +17,5 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-    
-design:
-  columns: "1"
-  background:
-    image: Sims.jpg
-    image_darken: 1
-    image_size: contain
-    text_color_light: light
-
 widget_id: moving
 ---
