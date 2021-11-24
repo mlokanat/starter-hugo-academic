@@ -20,7 +20,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   develop phase maps for various electrocoalescence possibilities and identify
   the parameter space for significant coalescence using dimensionless parameters
   i) modified electric capillary number (*Ca*<sub>e</sub><sup>*</sup>), ii) frequency (&tau;), and iii)
-  surfactant concentration (C^*). The effectiveness of electrocoalescence is
+  surfactant concentration (C<sup>*</sup>). The effectiveness of electrocoalescence is
   quantified using the parameter (&delta;/&alpha;), where &delta; is the droplet density per unit
   area and &alpha; is the fraction of surface not covered by droplets. Strong
   coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
@@ -30,7 +30,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   progressively reduces with concentration. Nonetheless, electrocoalescence at
   all concentrations results in substantial radius enhancement (after/before
   electrocoalescence); measured ratio ranged from 3.1-6.3 in the parameter space
-  of *Ca*<sub>e</sub><sup>*</sup>: 3.3-4.9, and &tau; ≤1.25*10^(-2). Surface electrocoalescence
+  of *Ca*<sub>e</sub><sup>*</sup>: 3.3-4.9, and &tau; ≤1.25 * 10<sup>-2</sup>. Surface electrocoalescence
   therefore promotes significant aggregation of water droplets over a wide range
   of interfacial energies. This study also characterizes satellite droplet
   ejection (SDE), which adversely affects electrocoalescence due to the ejection
