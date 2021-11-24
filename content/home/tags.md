@@ -6,7 +6,8 @@ active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Skills
-
+    description: |-2
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: categories
