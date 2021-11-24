@@ -4,11 +4,12 @@ abstract: Downward two-phase flow is observed in light water reactor accident
   accident (LOHS) due to loss of feed water or a secondary pipe break, and so,
   it is vital to have a thorough understanding of the flow mechanisms and
   regimes. With this point of view, flow regime transition criteria for vertical
-  downward flow for a range of pipe diameters of 24–101.6 mm has been developed.
+  downward flow for a range of pipe diameters of 24 – 101.6 mm has been developed.
   Several models looked at the radial distribution of the bubbles and the wake
   effect of leading bubbles while others looked into the Kelvin-Helmholtz
-  instability seen at the gas-liquid interface. The newly developed criteria
-  have been compared to flow regime maps obtained via subjective and objective
+  instability seen at the gas-liquid interface. <br><br>
+
+  The newly developed criteria have been compared to flow regime maps obtained via subjective and objective
   means, consisting of air-water data at atmospheric conditions as well as at an
   elevated pressure of 0.2 MPa. The new model is also compared to flow regime
   maps developed with different inlet conditions. Overall, the present model
@@ -52,12 +53,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.pnucene.2017.11.021
 ---
-
-{{% callout note %}}
-{{% /callout %}}
-
-{{% callout note %}}
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
+ 
