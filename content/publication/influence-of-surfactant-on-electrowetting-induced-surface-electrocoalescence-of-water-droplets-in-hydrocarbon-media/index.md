@@ -11,7 +11,9 @@ publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects
   (Under review)*"
 publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering
   Aspects (Under review)*"
-abstract: "Electrocoalescence is a powerful technique for separating water from
+abstract:
+    
+  Electrocoalescence is a powerful technique for separating water from
   hydrocarbons. The present study is a detailed experimental investigation of
   the influence of surfactant (Span 80) on electrowetting-induced surface
   electrocoalescence of micron-scale water droplets in hexadecane.
@@ -22,8 +24,9 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   i) modified electric capillary number (*Ca*<sub>e</sub><sup>* </sup>), ii) frequency (&tau;), and iii)
   surfactant concentration (*C*<sup>* </sup>). The effectiveness of electrocoalescence is
   quantified using the parameter (&delta;/&alpha;), where &delta; is the droplet density per unit
-  area and &alpha; is the fraction of surface not covered by droplets. Strong
-  coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
+  area and &alpha; is the fraction of surface not covered by droplets. 
+    
+  Strong coalescence (no surfactant) corresponds to &delta;/&alpha; < 10 droplets/mm<sup>2</sup>, with
   best-case &delta;/&alpha; = 1.6 droplets/mm<sup>2</sup>, with no droplets < 20 &mu;m diameter and
   electrocoalesced droplets as large as 750 &mu;mm. With surfactant,
   electrocoalescence weakens; the parameter space for strong electrocoalescence
