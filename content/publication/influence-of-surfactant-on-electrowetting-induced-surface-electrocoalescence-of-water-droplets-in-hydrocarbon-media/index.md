@@ -35,7 +35,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   therefore promotes significant aggregation of water droplets over a wide range
   of interfacial energies. This study also characterizes satellite droplet
   ejection (SDE), which adversely affects electrocoalescence due to the ejection
-  of 2-10 &mu;m radii droplets. SDE scales with voltage, frequency and
+  of 2 - 10 &mu;m radii droplets. SDE scales with voltage, frequency and
   concentration, and inversely with electrode spacing. Overall, we identify the
   recommended parameter space for surface electrocoalescence for separations and
   microfluidic applications." 
