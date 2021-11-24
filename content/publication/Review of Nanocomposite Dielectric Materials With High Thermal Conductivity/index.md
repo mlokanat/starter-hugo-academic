@@ -1,5 +1,31 @@
 ---
-abstract: ""
+abstract: Dielectric materials with high thermal conductivity (TC) can enable
+  disruptive performance enhancement in the areas of electronics packaging,
+  thermal management, energy storage, cabling, and heat sinks. There have been
+  widespread global efforts over the past decade on developing novel
+  nanocomposite dielectric materials. As a baseline, legacy polymers and epoxies
+  used in the abovementioned applications have very low thermal conductivities
+  ranging from 0.1-0.5 W·m -1 ·K -1 . Recent advances have led to the commercial
+  availability of polymeric materials with thermal conductivities approaching 10
+  W·m -1 ·K -1 . Importantly, several fundamental studies report novel
+  nanocomposites with thermal conductivities > 50 W·m -1 ·K -1 . This article
+  summarizes progress in the development of such materials with a focus on
+  developments that show promise for improved practical dielectrics. This review
+  highlights that high TC alone is inadequate to characterize the suitability of
+  any material for the above applications. Other thermal properties, such as
+  thermal diffusivity, glass transition temperature, and the ratio of the
+  in-plane to out-of-plane TC, are important to quantify the thermal performance
+  of novel nanocomposites. In addition, characterization and understanding of
+  mechanical properties (coefficient of thermal expansion (CTE), tensile
+  strength and elastic modulus) and electrical properties (dielectric strength
+  and dielectric permittivity) are critical for holistic multifunctional
+  assessments of these materials. There are other parameters and properties that
+  influence performance, life, and manufacturability, such as viscosity and
+  moisture absorption. This study reviews all the above aspects of nanocomposite
+  dielectric materials reported in the literature. More specifically, we analyze
+  various filler-polymer combinations, and the influence of approaches to
+  incorporate fillers in the polymer on the thermal, mechanical, and electrical
+  properties. While the addition of fille...
 slides: ""
 url_pdf: ""
 publication_types:
