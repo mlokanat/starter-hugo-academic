@@ -4,6 +4,8 @@ headless: true
 weight: 40
 title: Skills
 subtitle: null
+active: false
+
 feature:
   - description: []
     icon: []
