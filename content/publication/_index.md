@@ -14,6 +14,6 @@ draft: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "asd"
   image: "featured.JPG"
 ---
