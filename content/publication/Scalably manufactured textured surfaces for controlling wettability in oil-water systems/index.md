@@ -9,12 +9,14 @@ abstract: Competitive wettability in oil-water systems influences applications
   etching. These fabrication techniques can enable texturing with
   sub-millimeter, micron and sub-micron feature sizes. Wettability was
   characterized by measuring static contact angle and dynamic contact angle
-  (roll-off angle). Several insights into wettability are obtained from this
+  (roll-off angle). <br><br>
+
+  Several insights into wettability are obtained from this
   work. Firstly, textured metal surfaces with low energy surface chemistry
   showed the lowest adhesion to water and oil droplets. Textured metal surfaces
   coated with Teflon AF were superhydrophobic (in oil) with very low roll-off
-  angles (4°–7°). Uncoated textured metal surfaces were superoleophobic (in
-  water) with roll-off angles of 3°–9°. Secondly, textured polymer and elastomer
+  angles (4°– 7°). Uncoated textured metal surfaces were superoleophobic (in
+  water) with roll-off angles of 3°– 9°. Secondly, textured polymer and elastomer
   surfaces exhibited utrahydrophobicity (in oil); however not all textured
   elastomers exhibited superoleophobicity (in water). Thirdly, no droplet
   roll-off was observed on any textured elastomer and polymer surface, despite
