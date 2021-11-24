@@ -20,4 +20,8 @@ headless: true
 design:
   view: 2
   columns: "2"
+  image: sims.JPG
+  image_darken: 1
+  image_size: cover
+  text_color_light: light
 ---
