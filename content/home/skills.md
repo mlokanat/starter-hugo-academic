@@ -23,7 +23,7 @@ design:
   background:
     image: Sims.jpg
     image_darken: 1
-    image_size: cover
+    image_size: actual
     text_color_light: light
 
 widget_id: moving
