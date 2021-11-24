@@ -30,8 +30,8 @@ authors:
 summary: ""
 url_dataset: ""
 url_project: ""
-author_notes:
-
+author_notes: []
+ 
 publication_short: "*Progress in Nuclear Energy*"
 url_source: ""
 url_video: ""
