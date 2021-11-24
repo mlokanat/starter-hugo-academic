@@ -31,7 +31,7 @@ abstract: "Electrocoalescence is a powerful technique for separating water from
   progressively reduces with concentration. Nonetheless, electrocoalescence at
   all concentrations results in substantial radius enhancement (after/before
   electrocoalescence); measured ratio ranged from 3.1 - 6.3 in the parameter space
-  of *Ca*<sub>e</sub><sup>*</sup>: 3.3 - 4.9, and &tau; ≤ 1.25 * 10<sup>-2</sup>. Surface electrocoalescence
+  of *Ca* <sub>e</sub><sup>*</sup>: 3.3 - 4.9, and &tau; ≤ 1.25 * 10<sup>-2</sup>. Surface electrocoalescence
   therefore promotes significant aggregation of water droplets over a wide range
   of interfacial energies. This study also characterizes satellite droplet
   ejection (SDE), which adversely affects electrocoalescence due to the ejection
