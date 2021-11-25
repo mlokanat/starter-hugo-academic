@@ -24,9 +24,9 @@ design:
 <font size="6">* 1 Journal paper (ACS Nano)</font>
 
 <font size="8"> Volunteer </font>
-<font size="6">* **2020-Present**: ASME K8 Committee Student Chair</font>
-<font size="6">* **2019-2020**: Graduate Engineering Council President</font>
-<font size="6">* **2018-2019**: Graduate Engineering Council Treasurer</font>
+<font size="6"> * **2020-Present**: ASME K8 Committee Student Chair</font>
+<font size="6"> * **2019-2020**: Graduate Engineering Council President</font>
+<font size="6"> * **2018-2019**: Graduate Engineering Council Treasurer</font>
 
 <font size="8"> Teaching </font>
 * **2018-2021**: Heat Transfer
