@@ -28,22 +28,51 @@ header:
 * Data acquisition
 * Optical diagnosis 
 * High-speed imaging
-High voltage dielectrophoresis (DEP), Electro-wetting on dielectrics (EWOD), 
-Microchannel fluidics, Microscopy, Thin-film coating (spin coating), UV curing coating, 
-Wet-chemical etching, plasma etching, 3-D print fabrication & laser-cut fabrication, 
-Photolithography, Machining, Troubleshooting, Environmental scanning electron microscopy (ESEM), Surfactants
+* High voltage 
+* Dielectrophoresis (DEP)
+* Electro-wetting on dielectrics (EWOD), 
+* Microchannel fluidics
+* Microscopy
+* Thin-film coating (spin coating)
+* UV curing coating, 
+* Wet-chemical etching
+* plasma etching
+* 3-D print fabrication
+* laser-cut fabrication, 
+* Photolithography 
+* Machining
+* Troubleshooting
+* Environmental scanning electron microscopy (ESEM)
+* Surfactants
+* LabVIEW
+* Emulsion chemistry
+* Analytical modelling
 
 **Computational:**
-* Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
-* Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
-* Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
-* Modelled machine learning algorithms to predict ele
-
+* MATLAB
+* Python
+* Fluent
+* CFD
+* Thermal analysis (steady state, transient)  
+* LabVIEW
+* ANSYS
+* CATIA
+* Solidworks
+* NX
+* EES
+* OriginPro
+* Data acquisition
+* Data analytics
+* Artificial Neural network
+* Machine learning
+* XGBoost
+* Random forest
+* Image processing  
 
 ---
 Thermal analysis, Electronics cooling, Heat transfer, 
-Temperature measurements, Infrared (IR) imaging, MATLAB, 
-Python, FLUENT, ANSYS ICEM, CFD, CATIA, NX, EES, OriginPro, LabVIEW, 
+Temperature measurements, Infrared (IR) imaging, , 
+, FLUENT, ANSYS ICEM, CFD, CATIA, NX, EES, OriginPro, LabVIEW, 
 mage processing, Data acquisition, Data analytics, Optical diagnosis, High-speed imaging,
 High voltage dielectrophoresis (DEP), Electro-wetting on dielectrics (EWOD), 
 Microchannel fluidics, Microscopy, Thin-film coating (spin coating), UV curing coating, 
