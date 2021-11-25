@@ -50,10 +50,7 @@ publishDate: 2021-11-22T00:00:00.000Z
 doi: https://doi.org 
 
 tags: []
-categories: 
-- tes
-- ksda
-- asdasd
+categories: []
 
 
 ---
