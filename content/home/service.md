@@ -24,3 +24,21 @@ design:
       - 300px
       - 0px
 ---
+
+<font size="10"> Peer Review </font>
+* 9 conference papers (
+* Electronics cooling
+* Temperature measurements
+* Infrared (IR) imaging
+
+<font size="12"> Volunteer </font>
+* Thermal management
+* Electronics cooling
+* Temperature measurements
+* Infrared (IR) imaging
+
+<font size="12"> Teaching </font>
+* Thermal management
+* Electronics cooling
+* Temperature measurements
+* Infrared (IR) imaging
