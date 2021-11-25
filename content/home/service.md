@@ -17,6 +17,7 @@ design:
 
 <font size="6"> Volunteer </font><br>
  * <font size="5">**2020-Present**: ASME K8 (Heat Transfer Div.) Committee Student Chair</font><br>
+ * <font size="5">**2019-2020**: Committee Chair of Diversity, Equity & Inclusion </font><br>
  * <font size="5">**2019-2020**: Graduate Engineering Council President</font><br>
  * <font size="5">**2018-2019**: Graduate Engineering Council Treasurer</font>
 
