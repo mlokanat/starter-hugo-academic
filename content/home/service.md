@@ -21,5 +21,5 @@ design:
  * <font size="5">**2018-2019**: Graduate Engineering Council Treasurer</font>
 
 <font size="6"> Teaching </font>
-* **2018-2021**: <font size="5">Heat Transfer</font>
-* **2017**: <font size="5">Thermodynamics</font>
+* <font size="5">**2018-2021**: Heat Transfer</font>
+* <font size="5">**2017**: Thermodynamics</font>
