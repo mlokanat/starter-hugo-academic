@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 categories:
-- asdasd
-- asdasdsd
+- Experimental
+- Computational
 - asdaasssd
 ---
