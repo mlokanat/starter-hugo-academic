@@ -12,14 +12,6 @@ view: 2
 headless: false
 draft: false
 
-design:
-  columns: "1"
-  background:
-    image: skills.jpg
-    image_darken: 1
-    image_size: cover
-    text_color_light: light
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
@@ -85,3 +77,4 @@ design:
     image_size: cover
     text_color_light: light
 ---
+![screen reader text](skills.jpg)
