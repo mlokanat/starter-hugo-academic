@@ -14,15 +14,9 @@ design:
   background:
     image: 
     image_darken: 1
-    image_size: cover
+    image_size: []
     text_color_light: false
 
-  spacing:
-    padding:
-      - 300px
-      - 0px
-      - 300px
-      - 0px
 ---
 
 <font size="6"> Peer Review </font>
