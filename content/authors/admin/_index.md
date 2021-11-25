@@ -48,6 +48,7 @@ I have published more than 10 peer-reviewed articles in multiple internationally
 My experience is highly interdisciplinary with focuses on thermal management of power electronics, nanocomposites, 
 electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machine learning and more.
 
-**TEST**
 
 **[Skills & Expertise](./publication/)**
+
+ <font size="2"> This is my text number 6</font>
