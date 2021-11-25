@@ -47,6 +47,8 @@ header:
 * LabVIEW
 * Emulsion chemistry
 * Analytical modelling
+* Clean-room
+* Profilometer
 
 **Computational:**
 * MATLAB
