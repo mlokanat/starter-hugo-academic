@@ -20,13 +20,13 @@ design:
 ---
 
 <font size="8"> Peer Review </font>
-* <font size="7">9 conference papers (ASTFE, ITherm, SHTC, InterPACK)</font>
-* <font size="6">1 Journal paper (ACS Nano)</font>
+<font size="6">* 9 conference papers (ASTFE, ITherm, SHTC, InterPACK)</font>
+<font size="6">* 1 Journal paper (ACS Nano)</font>
 
 <font size="8"> Volunteer </font>
-* **2020-Present**: ASME K8 Committee Student Chair
-* **2019-2020**: Graduate Engineering Council President
-* **2018-2019**: Graduate Engineering Council Treasurer
+<font size="6">* **2020-Present**: ASME K8 Committee Student Chair</font>
+<font size="6">* **2019-2020**: Graduate Engineering Council President</font>
+<font size="6">* **2018-2019**: Graduate Engineering Council Treasurer</font>
 
 <font size="8"> Teaching </font>
 * **2018-2021**: Heat Transfer
