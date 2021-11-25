@@ -34,6 +34,11 @@ education:
     - course: BSc in Mechanical Engineering
       institution: Purdue University
       year: 2013
+      
+Skills:
+  - Thermal management
+  - Electronics cooling
+  - Microfluidics
 superuser: true
 highlight_name: true
 susperuser: true
