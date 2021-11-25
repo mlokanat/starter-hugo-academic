@@ -1,7 +1,5 @@
 ---
-advanced:
-  css_style: ""
-  css_class: ""
+
 headless: true
 weight: 100
 title: Service
@@ -9,11 +7,7 @@ subtitle:
 active: true
 design:
   columns: "2"
-  background:
-    image: 
-    image_darken: 1
-    image_size: []
-    text_color_light: false
+
 
 ---
 
