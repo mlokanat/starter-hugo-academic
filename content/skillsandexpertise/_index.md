@@ -36,9 +36,9 @@ header:
 * Thin-film coating (spin coating)
 * UV curing coating, 
 * Wet-chemical etching
-* plasma etching
+* Plasma etching
 * 3-D print fabrication
-* laser-cut fabrication, 
+* Laser-cut fabrication, 
 * Photolithography 
 * Machining
 * Troubleshooting
