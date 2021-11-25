@@ -20,6 +20,7 @@ design:
  * <font size="5">**2019-2020**: Committee Chair of Diversity, Equity & Inclusion </font><br>
  * <font size="5">**2019-2020**: Graduate Engineering Council President</font><br>
  * <font size="5">**2018-2019**: Graduate Engineering Council Treasurer</font>
+ * <font size="5">**2018-2019**: Introduce a Girl to Engineering Day/Explore UT</font>
 
 <font size="6"> Teaching </font>
 * <font size="5">**2018-2021**: Heat Transfer</font>
