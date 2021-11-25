@@ -68,13 +68,4 @@ header:
 * XGBoost
 * Random forest
 * Image processing  
-
 ---
-Thermal analysis, Electronics cooling, Heat transfer, 
-Temperature measurements, Infrared (IR) imaging, , 
-, FLUENT, ANSYS ICEM, CFD, CATIA, NX, EES, OriginPro, LabVIEW, 
-mage processing, Data acquisition, Data analytics, Optical diagnosis, High-speed imaging,
-High voltage dielectrophoresis (DEP), Electro-wetting on dielectrics (EWOD), 
-Microchannel fluidics, Microscopy, Thin-film coating (spin coating), UV curing coating, 
-Wet-chemical etching, plasma etching, 3-D print fabrication & laser-cut fabrication, 
-Photolithography, Machining, Troubleshooting, Environmental scanning electron microscopy (ESEM), Surfactants
