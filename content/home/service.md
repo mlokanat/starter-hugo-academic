@@ -24,17 +24,14 @@ design:
       - 300px
       - 0px
 ---
-<font size="10"> Peer Review </font>
+<font size="8"> Peer Review </font>
 * 9 conference papers (ASTFE, ITherm, SHTC, InterPACK)
 * 1 Journal paper (ACS Nano)
 
-<font size="12"> Volunteer </font>
+<font size="8"> Volunteer </font>
 * **2020-Present**: ASME K8 Committee Student Chair
 * **2019-2020**: Graduate Engineering Council President
  
-
-<font size="12"> Teaching </font>
-* Thermal management
-* Electronics cooling
-* Temperature measurements
-* Infrared (IR) imaging
+<font size="8"> Teaching </font>
+* **2018-2021**: Heat Transfer
+* **2017**: Thermodynamics
