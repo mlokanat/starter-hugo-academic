@@ -4,7 +4,7 @@ advanced:
   css_class: ""
 widget: blank
 widget_id: Service
-headless: true
+headless: false
 weight: 100
 title: Service
 subtitle: asd
