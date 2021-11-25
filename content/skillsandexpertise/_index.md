@@ -68,13 +68,5 @@ header:
 * XGBoost
 * Random forest
 * Image processing 
-
-design:
-  columns: "1"
-  background:
-    image: skills.jpg
-    image_darken: 1
-    image_size: cover
-    text_color_light: light
 ---
 ![screen reader text](skills.jpg)
