@@ -5,7 +5,7 @@ weight: 40
 active: false
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Skills
+title: Skillz
 
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
