@@ -11,7 +11,7 @@ main:
     url: '#experience'
     weight: 20
   - name: Videos
-    url: '#videos'
+    url: '#posts'
     weight: 30
   - name: Publications
     url: '#talks'
