@@ -71,4 +71,3 @@ header:
 * Random forest
 * Image processing 
 ---
-![screen reader text](skills.jpg)
