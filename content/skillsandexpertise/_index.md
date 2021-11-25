@@ -17,7 +17,7 @@ header:
   caption: ""
   image: ""
 ---
-
+![screen reader text](skills.jpg)
 ---
 **Experimental**
 * Thermal management
