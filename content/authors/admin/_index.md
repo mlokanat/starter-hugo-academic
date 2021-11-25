@@ -35,14 +35,9 @@ education:
       institution: Purdue University
       year: 2013
       
-Skills:
-  - Thermal management
-  - Electronics cooling
-  - Microfluidics
-
 superuser: true
 highlight_name: true
-susperuser: true
+
 title: Manojkumar Lokanathan
 email: ""
 ---
@@ -52,3 +47,9 @@ I have published more than 10 peer-reviewed articles in multiple internationally
 
 My experience is highly interdisciplinary with focuses on thermal management of power electronics, nanocomposites, 
 electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machine learning and more.
+
+
+Skills:
+  - Thermal management
+  - Electronics cooling
+  - Microfluidics
