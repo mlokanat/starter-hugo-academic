@@ -2,7 +2,7 @@
 widget: tag_cloud
 headless: true  # This file represents a page section.
 weight: 40
-active: true
+active: false
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Skills
