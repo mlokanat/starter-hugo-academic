@@ -2,9 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: blank
-widget_id: Service
-headless: false
+headless: true
 weight: 100
 title: Service
 subtitle:
