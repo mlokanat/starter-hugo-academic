@@ -51,4 +51,4 @@ electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machi
 
 **[Skills & Expertise](./publication/)**
 
- <font size="2"> This is my text number 6</font>
+ <font size="10"> This is my text number 6</font>
