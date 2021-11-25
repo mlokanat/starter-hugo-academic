@@ -29,10 +29,9 @@ design:
 * 1 Journal paper (ACS Nano)
 
 <font size="12"> Volunteer </font>
+* **2020-Present**: ASME K8 Committee Student Chair
 * **2019-2020**: Graduate Engineering Council President
-* Electronics cooling
-* Temperature measurements
-* Infrared (IR) imaging
+ 
 
 <font size="12"> Teaching </font>
 * Thermal management
