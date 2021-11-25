@@ -15,7 +15,7 @@ draft: false
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "featured.jpg"
+  image: ""
 ---
 
 ---
@@ -67,5 +67,13 @@ header:
 * Machine learning
 * XGBoost
 * Random forest
-* Image processing  
+* Image processing 
+
+design:
+  columns: "1"
+  background:
+    image: skills.jpg
+    image_darken: 1
+    image_size: cover
+    text_color_light: light
 ---
