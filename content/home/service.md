@@ -15,7 +15,7 @@ design:
     image: 
     image_darken: 1
     image_size: cover
-    text_color_light: false
+    text_color_light: true
 
   spacing:
     padding:
