@@ -7,10 +7,10 @@ widget_id: Service
 headless: true
 weight: 100
 title: Service
-subtitle: 
+subtitle: asd
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: 
     image_darken: 1
