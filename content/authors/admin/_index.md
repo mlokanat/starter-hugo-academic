@@ -49,7 +49,6 @@ My experience is highly interdisciplinary with focuses on thermal management of 
 electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machine learning and more.
 
 
-Skills:
-  - Thermal management
-  - Electronics cooling
-  - Microfluidics
+**Skills & Expertise:**
+[Computational](./publication/)
+[Experimental](./publication/)
