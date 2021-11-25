@@ -31,5 +31,4 @@ slides: example
 categories:
 - Experimental
 - Computational
-- asdaasssd
 ---
