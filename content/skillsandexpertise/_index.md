@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Skills & Expertise
 cms_exclude: true
 
 # View.
@@ -16,4 +16,9 @@ draft: false
 header:
   caption: ""
   image: ""
+---
+
+---
+title: Microfluidics <br>Thermal Sciences <br> Machine Learning
+subtitle: 
 ---
