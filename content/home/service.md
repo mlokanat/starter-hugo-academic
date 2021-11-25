@@ -25,3 +25,9 @@ design:
 <font size="6"> Teaching </font>
 * <font size="5">**2018-2021**: Heat Transfer</font>
 * <font size="5">**2017**: Thermodynamics</font>
+
+<font size="6"> Awards </font>
+* <font size="5">**2021**: ITherm Best Paper Runner-up Award</font>
+* <font size="5">**2020**: Philip C. & Linda L. Lewis Foundation Graduation Fellowship</font>
+* <font size="5">**2019**: Professional Development Award</font>
+* <font size="5">**2018**: Professional Development Award</font>
