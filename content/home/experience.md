@@ -18,10 +18,10 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
       * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation
       * Modeled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br>
-        &nbsp;&nbsp;&nbsp;o	System capability was characterized with a phase diagram consisting of derived dimensionless parameters
-        &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness
-        &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%
-        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant wettability, dielectrophoresis and image processing techniques
+        &nbsp;&nbsp;&nbsp;o	System capability was characterized with a phase diagram consisting of derived dimensionless parameters<br>
+        &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
+        &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
+        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant wettability, dielectrophoresis and image processing techniques<br>
       * Developed machine learning algorithms (neural network, XGBoost) to predict effectiveness of microfluidic device 
         &nbsp;&nbsp;&nbsp;o	Multi-output regression models yielded high prediction accuracy
         &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations
