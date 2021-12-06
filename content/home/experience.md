@@ -12,12 +12,12 @@ experience:
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
       * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br>
-       &nbsp;&nbsp;&nbsp;o	Utilized non-cleanroom techniques such as laser etching and wet etching for surface characterization 
+       &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
       * Achieved 70% increase in droplet wettability via the use of surfactants and electrowetting
-      * Modelled (MATLAB) droplet actuation in a 3-liquid configuration under dielectrophoresis
-          o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
+      * Computatinally modeled droplet actuation in a 3-liquid configuration under dielectrophoresis
+        &nbsp;&nbsp;&nbsp;o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
       * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation
-      * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br><br>
+      * Modeled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br><br>
         o	System capability was characterized with a phase diagram consisting of derived dimensionless parameters
         o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness
         o	Attained coalesce efficiency greater than 95%
