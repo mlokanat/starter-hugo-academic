@@ -13,14 +13,14 @@ experience:
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
       * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br>
        &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
-      * Achieved 70% increase in droplet wettability via the use of surfactants and electrowetting
-      * Computatinally modeled droplet actuation in a 3-liquid configuration under dielectrophoresis <br>
-        &nbsp;&nbsp;&nbsp;o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
-      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation <br>
+      * Achieved 70% increase in droplet wettability via the use of surfactants & electrowetting
+      * Computationally modeled droplet actuation under dielectrophoresis <br>
+        &nbsp;&nbsp;&nbsp;o	Model predicted experimental data with high accuracy (> 95%) based on electrohydrodynamic physics
+      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence & generation <br>
         &nbsp;&nbsp;&nbsp;o	System capability was thoroughly mapped out with a phase diagram<br>
         &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
-        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis and image processing techniques<br>
+        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis & image processing techniques<br>
       * Developed machine learning algorithms (neural network, XGBoost) to predict effectiveness of microfluidic device <br>
         &nbsp;&nbsp;&nbsp;o	Multi-output regression models yielded high prediction accuracy <br>
         &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations <br><br>
