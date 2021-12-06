@@ -65,7 +65,7 @@ header:
 * OriginPro
 * Data acquisition
 * Data analytics
-* Artificial Neural network
+* Artificial neural network
 * Machine learning
 * XGBoost
 * Random forest
