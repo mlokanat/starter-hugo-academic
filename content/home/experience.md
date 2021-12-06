@@ -30,8 +30,8 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)<br>
         &nbsp;&nbsp;&nbsp;o	Analyzed simulation data with ML algorithms to understand thermal effect of nanocomposite encapsulants
         &nbsp;&nbsp;&nbsp;o	Encapsulant reduces maximum hotspot temperatures by 7.4C (steady state) and 8.9C (transient)<br>
-        &nbsp;&nbsp;&nbsp;o	Performed IR imaging tests on power electronic modules with liquid-cooled heatsink<br>
-        &nbsp;&nbsp;&nbsp;o	Carried out experimental troubleshooting between IR imaging and thermocouple readings<br>
+      *	Performed IR imaging tests on power electronic modules with liquid-cooled heatsink<br>
+      * Carried out experimental troubleshooting between IR imaging and thermocouple readings<br>
         
   - title: Research & Development Intern
     company: Pattern Bioscience
