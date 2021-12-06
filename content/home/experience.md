@@ -20,7 +20,7 @@ experience:
         &nbsp;&nbsp;&nbsp;o	System capability was thoroughly mapped out with a phase diagram<br>
         &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
-        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis & image processing techniques<br>
+        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactants, &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis & image processing techniques<br>
       * Developed machine learning algorithms (neural network, XGBoost) to predict effectiveness of microfluidic device <br>
         &nbsp;&nbsp;&nbsp;o	Multi-output regression models yielded high prediction accuracy <br>
         &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations <br><br>
