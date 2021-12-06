@@ -11,17 +11,27 @@ experience:
     date_end: ""
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
-      * Increased wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
-      * Conducted experiments and modeled (MATLAB) dielectrophoresis in a 3-liquid configuration
-      * Investigated electrocoalescence of water droplets in alkane with interdigitated ITO electrodes
-      * Studied effects of interfacial tension, viscosity, inertia, and system capacitance on droplet-droplet interaction
+      * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques
+        o	Utilized non-cleanroom techniques such as laser etching and wet etching for surface characterization 
+      * Achieved 70% increase in droplet wettability via the use of surfactants and electrowetting
+      * Modelled (MATLAB) droplet actuation in a 3-liquid configuration under dielectrophoresis
+        o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
+      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation
       * Modelled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br><br>
-      
+        o	System capability was characterized with a phase diagram consisting of derived dimensionless parameters
+        o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness
+        o	Attained coalesce efficiency greater than 95%
+        o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant wettability, dielectrophoresis and image processing techniques
+      * Developed machine learning algorithms (neural network, XGBoost) to predict effectiveness of microfluidic device 
+        o	Multi-output regression models yielded high prediction accuracy
+        o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations
+
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
-      * Studied impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
-      * Carried out ANSYS thermal simulations of power electronic module through UT Austin’s supercomputer (TACC)
-      * Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants
-      * Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
+      * Quantified the impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
+      * Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)
+        o	Encapsulant reduces maximum hotspot temperatures by 7.4 oC (steady state) and 8.9 oC (transient)
+        o	Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
+        o	Carried out experimental troubleshotting between IR imaging and thermocouple readings
     
   - title: Research & Development Intern
     company: Pattern Bioscience
