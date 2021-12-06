@@ -16,8 +16,7 @@ experience:
       * Achieved 70% increase in droplet wettability via the use of surfactants and electrowetting
       * Computatinally modeled droplet actuation in a 3-liquid configuration under dielectrophoresis
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
-      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation
-      * Modeled machine learning algorithms to predict electrocoalescence & droplet generation efficiency of microfluidic device <br>
+      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence and generation <br>
         &nbsp;&nbsp;&nbsp;o	System capability was thoroughly mapped out with a phase diagram<br>
         &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
