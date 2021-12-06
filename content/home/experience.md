@@ -32,7 +32,8 @@ experience:
         o	Encapsulant reduces maximum hotspot temperatures by 7.4 oC (steady state) and 8.9 oC (transient)
         o	Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
         o	Carried out experimental troubleshotting between IR imaging and thermocouple readings
-    
+        o	Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants  
+        
   - title: Research & Development Intern
     company: Pattern Bioscience
     company_url: ""
