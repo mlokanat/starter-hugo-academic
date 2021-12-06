@@ -11,8 +11,8 @@ experience:
     date_end: ""
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
-      * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br><br>
-          o	Utilized non-cleanroom techniques such as laser etching and wet etching for surface characterization 
+      * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br>
+       &nbsp;&nbsp;&nbsp;o	Utilized non-cleanroom techniques such as laser etching and wet etching for surface characterization 
       * Achieved 70% increase in droplet wettability via the use of surfactants and electrowetting
       * Modelled (MATLAB) droplet actuation in a 3-liquid configuration under dielectrophoresis
           o	Model predicted experimental results with high accuracy (> 95%) based on electrohydrodynamic physics
@@ -28,7 +28,7 @@ experience:
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
       * Quantified the impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
-      * Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)
+          o	Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)
         o	Encapsulant reduces maximum hotspot temperatures by 7.4 oC (steady state) and 8.9 oC (transient)
         o	Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
         o	Carried out experimental troubleshotting between IR imaging and thermocouple readings
