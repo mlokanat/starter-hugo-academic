@@ -28,10 +28,10 @@ experience:
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
       * Quantified the impact of nanocomposite polymeric encapsulants on packaging of power electronics modules
-          o	Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)
-        o	Encapsulant reduces maximum hotspot temperatures by 7.4 oC (steady state) and 8.9 oC (transient)
-        o	Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink
-        o	Carried out experimental troubleshotting between IR imaging and thermocouple readings
+          o	Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)<br>
+        o	Encapsulant reduces maximum hotspot temperatures by 7.4 oC (steady state) and 8.9 oC (transient)<br>
+        o	Performed thermal imaging (IR) tests on power electronic modules with liquid-cooled heatsink<br>
+        o	Carried out experimental troubleshotting between IR imaging and thermocouple readings<br>
         o	Machine learning analysis of simulation data to understand thermal effect of nanocomposite encapsulants  
         
   - title: Research & Development Intern
