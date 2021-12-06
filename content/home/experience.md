@@ -23,7 +23,7 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactant &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis and image processing techniques<br>
       * Developed machine learning algorithms (neural network, XGBoost) to predict effectiveness of microfluidic device <br>
         &nbsp;&nbsp;&nbsp;o	Multi-output regression models yielded high prediction accuracy <br>
-        &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations <br>
+        &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations <br><br>
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
       * Quantified the impact of nanocomposite polymeric encapsulants on packaging of power electronics modules <br>
