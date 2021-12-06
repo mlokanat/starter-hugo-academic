@@ -30,7 +30,7 @@ header:
 * High-speed imaging
 * High voltage 
 * Dielectrophoresis (DEP)
-* Electro-wetting on dielectrics (EWOD), 
+* Electro-wetting on dielectrics (EWOD)
 * Microchannel fluidics
 * Microscopy
 * Thin-film coating (spin coating)
@@ -38,7 +38,7 @@ header:
 * Wet-chemical etching
 * Plasma etching
 * 3-D print fabrication
-* Laser-cut fabrication, 
+* Laser-cut fabrication
 * Photolithography 
 * Machining
 * Troubleshooting
