@@ -14,8 +14,10 @@ experience:
       * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br>
        &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
       * Achieved 70% increase in droplet wettability via the use of surfactants & electrowetting
+        
       * Computationally modeled droplet actuation under dielectrophoresis <br>
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental data with high accuracy (> 95%) based on electrohydrodynamic physics
+        
       * Developed an electric field assisted microfluidic device with high capability in droplet coalescence & generation <br>
         &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
         &nbsp;&nbsp;&nbsp;o	Device effectiveness was effectively mapped out onto a phase diagram with physics-based interpretability<br>
