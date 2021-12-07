@@ -19,7 +19,8 @@ design:
  * <font size="4">**2020-Present**: ASME K8 (Heat Transfer Division) Committee Chair</font><br>
  * <font size="4">**2019-2020**: Diversity, Equity & Inclusion Committee Chair </font><br>
  * <font size="4">**2019-2020**: Graduate Engineering Council President</font><br>
- * <font size="4">**2018-2019**: Graduate Engineering Council Treasurer</font>
+ * <font size="4">**2018-2019**: Graduate Engineering Council Financial Director</font>
+ * <font size="4">**2017-2018**: Graduate Engineering Council Activities Director</font>
  * <font size="4">**2018-2019**: Introduce a Girl to Engineering Day/Explore UT</font>
 
 <font size="5"> Teaching </font>
