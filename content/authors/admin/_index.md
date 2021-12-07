@@ -43,7 +43,7 @@ email: ""
 ---
 I am a PhD candidate at the University of Texas at Austin (Bahadur Research Group), with 9 years of experience in analytical, numerical and experimental
 heat transfer and thermal management, microfluidics, emulsion chemistry, surface sciences and machine learning.
-I have published more than 10 peer-reviewed articles in multiple internationally renowned scientific journals and conferences.
+I have published more than 10 peer-reviewed & award-winning articles in multiple internationally renowned scientific journals and conferences.
 
 My experience is highly interdisciplinary with focuses on thermal management of power electronics, nanocomposites, 
 electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machine learning and more.
