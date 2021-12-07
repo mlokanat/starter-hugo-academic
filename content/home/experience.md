@@ -26,13 +26,21 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Quantified importance of input features on microfluidic effectiveness via Shapley Additive exPlanations <br><br>
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
-      * Quantified the impact of nanocomposite polymeric encapsulants on packaging of power electronics modules <br>
-        &nbsp;&nbsp;&nbsp;o	Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer (TACC)<br>
-        &nbsp;&nbsp;&nbsp;o	Analyzed simulation data with ML algorithms to understand thermal effect of nanocomposite encapsulants <br>
-        &nbsp;&nbsp;&nbsp;o	Encapsulant reduces maximum hotspot temperatures by 7.4C (steady state) and 8.9C (transient)<br>
+      * Carried out holistic multifunctional assessments of composite polymeric encapsulants for power electronics modules <br>
+      * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on the lifetime of power electronics
+      * Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer 
+      * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
+        &nbsp;&nbsp;&nbsp;Best composite encapsulants reduces maximum junction temperatures by 7.4 oC (steady state) and 8.9 oC (transient)
       *	Performed IR imaging tests on power electronic modules with liquid-cooled heatsink<br>
       * Carried out calibration & reliability readings between IR imaging and thermocouple readings<br>
+
+
         
+
+
+
+
+
   - title: Research & Development Intern
     company: Pattern Bioscience
     company_url: ""
