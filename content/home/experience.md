@@ -68,7 +68,7 @@ experience:
       * Model is crucial to predict loss of coolant accident (LOCA) scenarios in high pressure nuclear power plants
       * Achieved 20% higher accuracy with new model as compared to literature    
 
-  - title: Reliability Intern
+  - title: Reliability Engineer
     company: Magnetation Inc.
     company_url: ""
     company_logo: test
