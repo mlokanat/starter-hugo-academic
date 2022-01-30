@@ -53,11 +53,10 @@ header:
 **Computational:**
 * MATLAB
 * Python
-* Fluent
-* CFD
+* Ansys Fluent (CFD)
+* Ansys Mechanical (FEA)
 * Thermal analysis (steady state, transient)  
 * LabVIEW
-* ANSYS
 * CATIA
 * Solidworks
 * NX
