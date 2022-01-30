@@ -22,7 +22,7 @@ experience:
     date_end: ""
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
-      * Achieved high degree of wettability alteration of water and oil droplets via surface engineering, surfactants and active electrowetting (EW) <br>
+      * Achieved high degree of wettability alteration of water and oil droplets via surface engineering, surfactants and electrowetting (EW) <br>
        &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
       * Achieved 70% increase in droplet wettability via the use of surfactants & electrowetting
         
