@@ -40,12 +40,12 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Using Shapley Additive exPlanations, the DL model retained a high degree of physics-based interpretability <br><br>
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
-      * Carried out holistic multifunctional assessments of composite polymeric encapsulants for power electronics modules <br>
-      * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on the lifetime of power electronics
-      * Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer 
+      * Carried out holistic multifunctional assessments of composite polymeric encapsulants for power electronics (PE) modules <br>
+      * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on the lifetime of PE
+      * Ran ANSYS thermal parametric simulations of PE module through UT Austin’s supercomputer 
       * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
         &nbsp;&nbsp;&nbsp;o	Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
-      *	Performed IR imaging tests on power electronic modules with liquid-cooled heatsink<br>
+      *	Performed IR imaging tests on PE modules with liquid-cooled heatsink<br>
       * Carried out calibration & reliability readings between IR imaging and thermocouple readings<br>
 
 
