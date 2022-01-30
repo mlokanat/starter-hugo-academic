@@ -46,7 +46,7 @@ experience:
       * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
         &nbsp;&nbsp;&nbsp;o	Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
       *	Performed IR imaging tests on PE modules with liquid-cooled heatsink<br>
-      * Carried out calibration & reliability readings between IR imaging and thermocouple readings<br>
+      * Carried out calibration & reliability readings of IR images and thermocouples <br>
 
 
         
