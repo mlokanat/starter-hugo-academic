@@ -29,7 +29,7 @@ experience:
       * Computationally modeled droplet actuation under dielectrophoresis <br>
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental data with high accuracy (> 95%) based on electrohydrodynamic physics
         
-      * Developed an electric field assisted microfluidic device with high capability in droplet coalescence & generation <br>
+      * Developed a multifunctional electrowetting microfluidic device with high capability in droplet coalescence & generation <br>
         &nbsp;&nbsp;&nbsp;o	Derived a novel output parameter to quantify the microfluidic device’s effectiveness<br>
         &nbsp;&nbsp;&nbsp;o	Device effectiveness was effectively mapped out onto a phase diagram with physics-based interpretability<br>
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
