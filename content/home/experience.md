@@ -41,7 +41,7 @@ experience:
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
       * Carried out holistic multifunctional assessments of composite polymeric encapsulants for power electronics (PE) modules <br>
-      * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on the lifetime of PE
+      * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on PE modules
       * Ran ANSYS thermal parametric simulations of PE module through UT Austin’s supercomputer 
       * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
         &nbsp;&nbsp;&nbsp;o	Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
