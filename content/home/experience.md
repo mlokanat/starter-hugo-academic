@@ -22,17 +22,17 @@ experience:
     date_end: ""
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
-      * Achieved high degree of wettability alteration of water and oil droplets via passive (surface engineering, surfactants) and active (electrowetting) techniques <br>
+      * Achieved high degree of wettability alteration of water and oil droplets via surface engineering, surfactants and active electrowetting (EW) <br>
        &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
       * Achieved 70% increase in droplet wettability via the use of surfactants & electrowetting
         
       * Computationally modeled droplet actuation under dielectrophoresis <br>
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental data with high accuracy (> 95%) based on electrohydrodynamic physics
         
-      * Developed a multifunctional electrowetting microfluidic device with high capability in droplet coalescence & generation <br>
+      * Developed a multifunctional EW microfluidic device with high capability in droplet coalescence & generation <br>
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
         &nbsp;&nbsp;&nbsp;o	Device generated 100s of micron-sized droplets per second<br>
-        &nbsp;&nbsp;&nbsp;o	Device effectiveness was effectively mapped out onto a phase diagram with physics-based interpretability<br>
+        &nbsp;&nbsp;&nbsp;o	Device effectiveness was mapped out onto a phase diagram with physics-based interpretability<br>
         &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactants, &nbsp;&nbsp;&nbsp; wettability, dielectrophoresis & image processing techniques<br>
       
       * Developed a deep learning model to predict the effectiveness of microfluidic devices, which could reduce the costs of evaluating potential designs <br>
