@@ -37,7 +37,7 @@ experience:
       
       * Developed a deep learning model to predict the effectiveness of microfluidic devices, which could reduce the costs of evaluating potential designs <br>
         &nbsp;&nbsp;&nbsp;o	Multi-output deep learning regression model yielded high prediction accuracy <br>
-        &nbsp;&nbsp;&nbsp;o	Using Shapley Additive exPlanations, the deep learning model retained retains a high degree of physics-based interpretability <br><br>
+        &nbsp;&nbsp;&nbsp;o	Using Shapley Additive exPlanations, the deep learning model retained a high degree of physics-based interpretability <br><br>
 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Thermal Management**
       * Carried out holistic multifunctional assessments of composite polymeric encapsulants for power electronics modules <br>
