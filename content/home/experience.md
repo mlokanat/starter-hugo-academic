@@ -44,7 +44,7 @@ experience:
       * Assessed current limitations (mechanical, thermal, electrical) of nanocomposites on the lifetime of power electronics
       * Ran ANSYS thermal parametric simulations of power electronic module through UT Austin’s supercomputer 
       * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
-        &nbsp;&nbsp;&nbsp;Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
+        &nbsp;&nbsp;&nbsp;o	Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
       *	Performed IR imaging tests on power electronic modules with liquid-cooled heatsink<br>
       * Carried out calibration & reliability readings between IR imaging and thermocouple readings<br>
 
