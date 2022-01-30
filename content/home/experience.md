@@ -11,7 +11,7 @@ experience:
     date_start: 2021-10-25
     date_end: 2022-03-25
     description: |-2     
-      * Customer discovery interviews for ultra-fast hydrate formation<br>
+      * Customer discovery for ultra-fast hydrate formation<br>
 
   - title: Graduate Research Assistant
     company: University of Texas at Austin
