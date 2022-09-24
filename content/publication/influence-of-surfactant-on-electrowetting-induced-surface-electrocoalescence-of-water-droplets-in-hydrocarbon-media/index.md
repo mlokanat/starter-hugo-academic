@@ -46,7 +46,7 @@ image:
   preview_only: false
 date: 2021-11-22T06:32:43.140Z
 publishDate: 2021-11-22T00:00:00.000Z
-doi: https://www.sciencedirect.com/science/article/abs/pii/S0927775722000796 
+doi: https://doi.org/10.1016/j.colsurfa.2022.128325
 
 tags: []
 categories: []

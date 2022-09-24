@@ -37,7 +37,7 @@ image:
   preview_only: false
 date: 2021-11-22T06:34:53.327Z
 publishDate: 2021-11-22T00:00:00.000Z
-doi: https://www.sciencedirect.com/science/article/abs/pii/S026387622200524X
+doi: https://doi.org/10.1016/j.cherd.2022.09.025
 
 ---
 
