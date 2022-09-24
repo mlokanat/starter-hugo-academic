@@ -7,10 +7,9 @@ authors:
   - Admin
   - Sarith Wimalarathne
   - Vaibhav Bahadur
-publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects
-  (Under review)*"
+publication: "*Colloids and Surfaces A: Physicochemical and Engineering Aspects*"
 publication_short: "*Colloids and Surfaces A: Physicochemical and Engineering
-  Aspects (Under review)*"
+  Aspects*"
 abstract: "Electrocoalescence is a powerful technique for separating water from
   hydrocarbons. The present study is a detailed experimental investigation of
   the influence of surfactant (Span 80) on electrowetting-induced surface

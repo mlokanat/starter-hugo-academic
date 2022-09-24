@@ -8,8 +8,8 @@ authors:
   - Tyler Buffington
   - Sarith Wimalarathne
   - Vaibhav Bahadur
-publication: "*Chemical Engineering Journal (Under review)*"
-publication_short: "*Chemical Engineering Journal (Under review)*"
+publication: "*Chemical Engineering Research and Design*"
+publication_short: "*Chemical Engineering Research and Design*"
 abstract: >-
   Electrowetting (EW) is a widely-studied microfluidic technique to promote
   coalescence of droplets as well as generate droplets. However, analytical or
