@@ -46,7 +46,7 @@ image:
   preview_only: false
 date: 2021-11-22T06:32:43.140Z
 publishDate: 2021-11-22T00:00:00.000Z
-doi: https://doi.org 
+doi: https://www.sciencedirect.com/science/article/abs/pii/S0927775722000796 
 
 tags: []
 categories: []
