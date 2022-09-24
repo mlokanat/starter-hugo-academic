@@ -1,7 +1,7 @@
 ---
-role: PhD Candidate in Thermal Fluids Sciences
+role: Research Scientist in Thermal Fluids Sciences
 avatar_filename: uploads/1517256553656.jpg
-bio: Manoj is a PhD candidate at the University of Texas at Austin. His research expertise encompasses the fields of two-phase flow, thermal sciences, microfluidics, emulsion chemistry, surface sciences and machine learning.
+bio: Manoj is a doctorate from the University of Texas at Austin. His research expertise encompasses the fields of two-phase flow, thermal sciences, microfluidics, emulsion chemistry, surface sciences and machine learning.
 interests:
   - Thermal management
   - Electronics cooling
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/manoj-lokanathan/
 organizations:
-  - name: Bahadur Research Group (UT Austin)
-    url: http://bahadurlab.me.utexas.edu/home.html
+  - name: C-Crete Technologies (Bay Area)
+    url: https://ccretetech.com/
 education:
   courses:
     - course: PhD in Mechanical Engineering
@@ -41,11 +41,11 @@ highlight_name: true
 title: Manojkumar Lokanathan
 email: ""
 ---
-I am a PhD candidate at the University of Texas at Austin (Bahadur Research Group), with 9 years of experience in analytical, numerical and experimental
+I am a doctorate from the University of Texas at Austin (Bahadur Research Group), with 9 years of experience in analytical, numerical and experimental
 heat transfer and thermal management, microfluidics, emulsion chemistry, surface sciences and machine learning.
 I have published more than 10 peer-reviewed & award-winning articles in multiple internationally renowned scientific journals and conferences.
 
-My experience is highly interdisciplinary with focuses on thermal management of power electronics, nanocomposites, 
+My experience is highly interdisciplinary with focuses on thermal and lifetime management of power electronics, nanocomposites, nanofluids, 
 electrowetting, dielectrophoresis, electrocoalescence, droplet generation, machine learning and more.
 
  <ins><font size="4.5"> **[See all skills & expertise](./skillsandexpertise/)** </font><ins>
