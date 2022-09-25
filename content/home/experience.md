@@ -17,15 +17,23 @@ experience:
 
 
 
-  - title: Entrepreneurial Lead (NSF I-Corps)
-    company: University of Texas at Austin
-    company_url: ""
-    company_logo: test
-    location: Texas
-    date_start: 2021-10-25
-    date_end: 2022-03-25
-    description: |-2     
-      * Customer discovery for ultra-fast hydrate formation<br>
+[comment]: <> (  - title: Entrepreneurial Lead &#40;NSF I-Corps&#41;)
+
+[comment]: <> (    company: University of Texas at Austin)
+
+[comment]: <> (    company_url: "")
+
+[comment]: <> (    company_logo: test)
+
+[comment]: <> (    location: Texas)
+
+[comment]: <> (    date_start: 2021-10-25)
+
+[comment]: <> (    date_end: 2022-03-25)
+
+[comment]: <> (    description: |-2     )
+
+[comment]: <> (      * Customer discovery for ultra-fast hydrate formation<br>)
 
   - title: Graduate Research Assistant
     company: University of Texas at Austin
