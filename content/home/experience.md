@@ -14,26 +14,7 @@ experience:
       * Researched surface & emulsion chemistry effects on droplet distribution in microchannel cells
       * Improved droplet distribution by understanding curing intensity and thermal effects
       * Built a holistic, data analytics approach in quantifying the effects of surfactants on droplet emulsion stability  
-
-
-
-[comment]: <> (  - title: Entrepreneurial Lead &#40;NSF I-Corps&#41;)
-
-[comment]: <> (    company: University of Texas at Austin)
-
-[comment]: <> (    company_url: "")
-
-[comment]: <> (    company_logo: test)
-
-[comment]: <> (    location: Texas)
-
-[comment]: <> (    date_start: 2021-10-25)
-
-[comment]: <> (    date_end: 2022-03-25)
-
-[comment]: <> (    description: |-2     )
-
-[comment]: <> (      * Customer discovery for ultra-fast hydrate formation<br>)
+  
 
   - title: Graduate Research Assistant
     company: University of Texas at Austin
