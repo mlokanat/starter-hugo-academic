@@ -19,7 +19,7 @@ experience:
     company_logo: test
     location: Texas
     date_start: 2017-01-01
-    date_end: ""
+    date_end: 2022-05-01
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
       * Achieved high degree of wettability alteration of water and oil droplets via surface engineering, surfactants & electrowetting (EW) <br>
