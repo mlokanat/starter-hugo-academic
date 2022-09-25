@@ -18,7 +18,7 @@ experience:
 
 
 
-  - title: Graduate Research Assistant
+  - title: XX Research Assistant
     company: University of Texas at Austin
     company_url: ""
     company_logo: test
