@@ -15,10 +15,18 @@ experience:
       * Improved droplet distribution by understanding curing intensity and thermal effects
       * Built a holistic, data analytics approach in quantifying the effects of surfactants on droplet emulsion stability  
   
+   #- title: Entrepreneurial Lead (NSF I-Corps)
+      company: University of Texas at Austin
+      company_url: ""
+      #company_logo: test
+      #location: Texas
+      #date_start: 2021-10-25
+      #date_end: 2022-03-25
+      description: |-2     
+       # * Customer discovery for ultra-fast hydrate formation<br>
 
 
-
-  - title: XX Research Assistant
+  - title: Graduate Research Assistant
     company: University of Texas at Austin
     company_url: ""
     company_logo: test
