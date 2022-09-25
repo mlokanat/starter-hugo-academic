@@ -23,8 +23,6 @@ experience:
     description: |-2
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Microfluidics**
       * Achieved high degree of wettability alteration of water and oil droplets via surface engineering, surfactants & electrowetting (EW) <br>
-       &nbsp;&nbsp;&nbsp;o	Laser etching and wet etching for surface characterization 
-      * Achieved 70% increase in droplet wettability via the use of surfactants & EW
         
       * Computationally modeled droplet actuation under dielectrophoresis (DEP) <br>
         &nbsp;&nbsp;&nbsp;o	Model predicted experimental data with high accuracy (> 95%) based on electrohydrodynamic physics
@@ -33,7 +31,6 @@ experience:
         &nbsp;&nbsp;&nbsp;o	Attained coalesce efficiency greater than 95%<br>
         &nbsp;&nbsp;&nbsp;o	Device generated 100s of micron-sized droplets per second<br>
         &nbsp;&nbsp;&nbsp;o	Device effectiveness was mapped with a phase diagram with physics-based interpretability<br>
-        &nbsp;&nbsp;&nbsp;o	Culmination of photolithography, plasma etching, emulsion chemistry, surfactants, &nbsp;&nbsp;&nbsp; wettability, DEP & image processing techniques<br>
       
       * Developed a deep learning (DL) model to predict the effectiveness of microfluidic devices, which could reduce the costs of evaluating potential designs <br>
         &nbsp;&nbsp;&nbsp;o	Multi-output DL regression model yielded high prediction accuracy <br>
@@ -46,7 +43,6 @@ experience:
       * Performed machine learning analysis of thermal simulation data to study effect of nanocomposite encapsulants        
         &nbsp;&nbsp;&nbsp;o	Best composite encapsulants reduces maximum junction temperatures by 7.4 C (steady state) and 8.9 C (transient)
       *	Performed IR imaging tests on PE modules with liquid-cooled heatsink<br>
-      * Carried out calibration & reliability readings of IR images and thermocouples <br>
 
 
         
