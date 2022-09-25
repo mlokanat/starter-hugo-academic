@@ -41,7 +41,7 @@ highlight_name: true
 title: Manojkumar Lokanathan
 email: ""
 ---
-I am a doctorate from the University of Texas at Austin (Bahadur Research Group), with 9 years of experience in analytical, numerical and experimental
+I am a research scientist at C-Crete Technologies with a doctorate from the University of Texas at Austin (Bahadur Research Group), with 9 years of experience in analytical, numerical and experimental
 heat transfer and thermal management, microfluidics, emulsion chemistry, surface sciences and machine learning.
 I have published more than 10 peer-reviewed & award-winning articles in multiple internationally renowned scientific journals and conferences.
 
