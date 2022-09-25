@@ -1,7 +1,7 @@
 ---
 role: Research Scientist in Thermal Fluids Sciences
 avatar_filename: uploads/1517256553656.jpg
-bio: Manoj is a doctorate from the University of Texas at Austin. His research expertise encompasses the fields of two-phase flow, thermal sciences, microfluidics, emulsion chemistry, surface sciences and machine learning.
+bio: Manoj is a research scientist at C-Crete Technologies and has a doctorate from the University of Texas at Austin. His research expertise encompasses the fields of power electronics management, two-phase flow, thermal sciences, microfluidics, emulsion chemistry, surface sciences and machine learning.
 interests:
   - Thermal management
   - Electronics cooling

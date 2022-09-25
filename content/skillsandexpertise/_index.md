@@ -22,6 +22,10 @@ header:
 **Experimental**
 * Thermal management
 * Electronics cooling
+* Raman Spectroscopy
+* Absorption spectroscopy
+* Dielectric nanofluids
+* High Pressure & Temperature Aging
 * Temperature measurements
 * Infrared (IR) imaging
 * Image processing
@@ -34,7 +38,7 @@ header:
 * Microchannel fluidics
 * Microscopy
 * Thin-film coating (spin coating)
-* UV curing coating, 
+* UV curing coating
 * Wet-chemical etching
 * Plasma etching
 * 3-D print fabrication
