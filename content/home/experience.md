@@ -4,17 +4,16 @@ date_format: Jan 2006
 experience:
 
 
-- title: Research Scientist
-  company: C-Crete Technologies
+- title: Entrepreneurial Lead (NSF I-Corps)
+  company: University of Texas at Austin
   company_url: ""
   company_logo: test
-  location: California (Bay Area)
-  date_start: 2022-04-15
-  date_end: Present
+  location: Texas
+  date_start: 2021-10-25
+  date_end: 2022-03-25
   description: |-2
-
-
-
+    * Customer discovery for ultra-fast hydrate formation<br>
+  
 - title: Entrepreneurial Lead (NSF I-Corps)
   company: University of Texas at Austin
   company_url: ""
