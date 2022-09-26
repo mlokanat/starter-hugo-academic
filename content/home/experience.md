@@ -3,17 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
 
-  - title: Research Scientist
-    company: C-Crete Technologies
-    company_url: ""
-    company_logo: test
-    location: California
-    date_start: 2022-04-01
-    date_end: Present
-    description: |-2     
-      * Researched surface & emulsion chemistry effects on droplet distribution in microchannel cells
-      * Improved droplet distribution by understanding curing intensity and thermal effects
-      * Built a holistic, data analytics approach in quantifying the effects of surfactants on droplet emulsion stability  
+
   
    #- title: Entrepreneurial Lead (NSF I-Corps)
       company: University of Texas at Austin
