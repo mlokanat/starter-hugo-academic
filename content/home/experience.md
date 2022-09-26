@@ -12,7 +12,7 @@ experience:
   date_start: 2022-04-15
   date_end: Present
   description: |-2
-    * Leading a $1.5 million ARPA-E project to develop novel insulating systems for energy infrastructure<br>
+
 
 
 - title: Entrepreneurial Lead (NSF I-Corps)
