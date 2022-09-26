@@ -13,12 +13,7 @@ experience:
   date_end: Present
   description: |-2
     * Leading a $1.5 million ARPA-E project to develop novel insulating systems for energy infrastructure<br>
-    * Synthesizing and testing nanofluids for next-generation power transformers<br>
-      &nbsp;&nbsp;&nbsp;o	In accordance to ASTM and IEC standards
-    * Designing high pressure and temperature experimental setups over $150,000
-    * Designing and running transformer thermal ageing tests according to IEEE standards<br>
-    * Working with vendors and manufacturers on experimental components<br>
-    * Scaling up nanofluid production by 1000x (lab to commercialization) <br>
+
 
 
 - title: Entrepreneurial Lead (NSF I-Corps)
