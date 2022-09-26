@@ -10,7 +10,7 @@ experience:
   company_logo: test
   location: Texas
   date_start: 2021-10-25
-  date_end: 2022-03-25
+  date_end: Present
   description: |-2
     * Customer discovery for ultra-fast hydrate formation<br>
   
