@@ -4,15 +4,21 @@ date_format: Jan 2006
 experience:
 
 
-- title: Entrepreneurial Lead (NSF I-Corps)
-  company: University of Texas at Austin
+- title: Research Scientist
+  company: C-Crete Technologies
   company_url: ""
   company_logo: test
-  location: Texas
-  date_start: 2021-10-25
-  date_end: 2022-03-25
+  location: California (Bay Area)
+  date_start: 2022-04-15
+  date_end: Present
   description: |-2
-    * Customer discovery for ultra-fast hydrate formation<br>
+      * Leading a $1.5 million ARPA-E project to develop novel insulating systems for energy infrastructure<br>
+      * Synthesizing and testing nanofluids for next-generation power transformers<br>
+        &nbsp;&nbsp;&nbsp;o	In accordance to ASTM and IEC standards
+      * Designing high pressure and temperature experimental setups over $150,000
+      * Designing and running transformer thermal ageing tests according to IEEE standards<br>
+      * Working with vendors and manufacturers on experimental components<br>
+      * Scaling up nanofluid production by 1000x (lab to commercialization) <br>
 
 
 - title: Entrepreneurial Lead (NSF I-Corps)
